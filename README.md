@@ -27,43 +27,11 @@ Cette nouvelle traduction est plus fidèle à la version anglaise, sans pour aut
 
 - Si vous jouez sur la version d'origine (vanilla) de Caesar III, copiez les 2 fichiers contenus dans le dossier "frdeluxe" (`c3.eng` et `c3_mm.eng`) à la racine du dossier d'installation de Caesar III. Il est conseillé au préalable de faire une copie des 2 fichiers .eng d'origine, si vous désirez éventuellement revenir à la traduction originale.
 
-## Principaux changements:
+## Quelles modifications ?
 
-- La carte "Nourriture" est renommée "Stock Vivres" (*Food Stocks*)
+Consultez la liste des [principaux changements](https://github.com/Ouaz/frdeluxe/releases/tag/v1.0).
 
-- "Parc à lions" > "Fosse aux lions" (*Lion Pit*).
-Les traducteurs d'origine ont dû penser qu'il s'agissait d'une structure de loisirs...
-
-- "Fabrique de chars" > "Manufacture de chars" (*Chariot Builders*).
-Afin de distinguer ce bâtiment spécifique des ateliers/fabriques. Dans la version anglaise, ce bâtiment avait été pensé au début comme une "Charioteer School", d'où sa présence dans l'onglet divertissement et le fait qu'aucune matière première ne soit nécessaire pour fabriquer des chars.
-
-- L'onglet "Atelier" (*Workshops*) dans le panneau latéral est renommé "Artisanat", car il comprend à la fois des ateliers et des fabriques en français.
-
-- "Petite maison, Grande maison" > "Petite casa, Grande Casa" (*Small Casa, Large Casa*), "Casa" signifiant génériquement "demeure" en latin.
-On retrouve donc bien la progression Casa < Insula < Villa. Le terme "Maison" est utilisé génériquement dans la version française pour désigner n'importe quelle résidence.
-
-- "Insula imposante" > "Insula somptueuse" (*Grand Insula*)
-- "Villa imposante" > "Villa somptueuse" (*Grand Villa*)
-
-- Les fermes sont renommées selon leur type de culture, pour retrouver la catégorisation anglaise des bâtiments ("Wheat Farm > Ferme céréalière", "Fruit Farm > Ferme fruitière", "Wine Farm > Ferme viticole"...). Les termes spécifiques (Oliveraie, Verger, Vigne...) sont toujours utilisés dans le panneau d'information de chaque ferme (comme en anglais).
-
-- Les "Workshops" produisant des "vivres de confort" sont renommés "Fabrique" ("Fabrique de vin, Fabrique d'huile"), ceux produisant des biens manufacturés sont renommés "Atelier" ("Atelier d'armes, Atelier de meubles, Atelier de poterie"), pour s'approcher de la catégorisation anglaise. Les termes spécifiques (comme "Huilerie") sont toujours utilisés dans le panneau d'information de chaque atelier ou fabrique.
-
-- Les industries arrêtées sur ordre du conseiller commercial sont désormais "suspendues" (*mothballed*) et non plus "inactives", pour les différencier des industries réellement "inactives" par manque de main-d'œuvre. Ce qui donne trois statuts pour une industrie: fonctionnelle > suspendue > désœuvrée (*working, mothballed, idle*)
-
-- "Dompteur de lions" > "Dresseur de lions" (*Lion Tamer*).
-Les lions sont "dressés" pour l'arène, et non pas "domptés" (l'erreur vient du fait que "Lion Pit" avait été traduit "Parc à lions", avec toujours cette idée qu'il s'agissait d'un lieu de divertissement)
-
-- "Conducteur de chars" > "Aurige" (*Charioteer*)
- 
-- "Client du marché" > "Acheteuse du marché" (*Market Buyer*).
-Mauvaise traduction à l'origine, puisque il s'agit de l'employée du marché chargée de l'approvisionner en biens. L'autre employée est la "Vendeuse du marché", chargée de distribuer les biens dans les maisons.
-
-- Les rangs Proconsul et Consul sont inversés dans la version française d'origine. Le bon ordre est Consul puis Proconsul.
-
-- L'Aide du jeu a été également entièrement retravaillée: correspondance des termes utilisés avec ceux du jeu, traduction plus précise des différents articles, correction des incohérences et inexactitudes.
-
-Vous pouvez consulter en détail toutes les modifications apportées en consultant le fichier `patch-diff.txt`, listant les 1074 entrées modifiées pour le jeu principal, mais pas celles de l'Aide (trop nombreuses!).
+Pour afficher toutes les modifications apportées, consultez le fichier [`patch-diff.txt`](https://github.com/Ouaz/frdeluxe/blob/master/patch-diff.txt), listant les 1074 entrées modifiées pour le jeu principal, mais pas celles de l'Aide (trop nombreuses!).
 
 Notes: 
 - Le fichier `c3.eng` contient toutes les entrées du jeu principal.
@@ -75,7 +43,7 @@ https://github.com/Ouaz/frdeluxe
 
 ou
 
-https://www.abandonware-forums.org/forum/autres/les-aventuriers-de-la-traduction-perdue
+sur le site [Abandonware Forums - Les Aventuriers de la Traduction Perdue](https://www.abandonware-forums.org/forum/autres/les-aventuriers-de-la-traduction-perdue/836163-caesar-iii-traduction-frdeluxe#post836163)
 
 ## Remerciements
 
