@@ -144,8 +144,8 @@
 -   <string id="54">Ce lac n'a pas d'accès vers la mer
 +   <string id="53">Impossible de détruire un pont si des gens s'y trouvent
 +   <string id="54">Ce lac n'a pas d'accès à la mer
--   <string id="57">Doit être placé sur une rivière</string>
-+   <string id="57">Doit être placé au bord de l'eau</string>
+-   <string id="57">Doit être placé sur une rivière
++   <string id="57">Doit être placé au bord de l'eau
 
 @@ -328,7 +328,7 @@
 -   <string id="62">Les gens qui y vivent vont bientôt périr
@@ -1167,7 +1167,7 @@
 -   <string id="71">Consulter le rapport sur les armées
 +   <string id="71">Consulter le rapport sur la légion
 -   <string id="130">Cliquez ici pour aller vers cette zone de troubles
-+   <string id="130">Cliquez ici pour aller vers cette zone à problèmes</string>
++   <string id="130">Cliquez ici pour aller vers cette zone à problèmes
 
 @@ -2669,7 +2669,7 @@
 -   <string id="82">Retourner à l'écran de jeu

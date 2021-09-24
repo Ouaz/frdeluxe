@@ -23,12 +23,12 @@ Cette nouvelle traduction est plus fidèle à la version anglaise, sans pour aut
 Installation
 ############
 
-- FrDeluxe nécessite la version 1.1 FR de Caesar III.
+- FrDeluxe nécessite le patch 1.1 de Caesar III correspondant à la langue de votre version (https://github.com/bvschaik/julius/wiki/Patches). FrDeluxe est compatible avec toutes les versions de Caesar III, quelle que soit la langue d'origine.
 
 - Si vous utilisez les mods Julius (https://github.com/bvschaik/julius) ou Augustus (https://github.com/Keriew/augustus):
 
-Placez le dossier "frdeluxe" à la racine du dossier d'installation de Caesar III (par exemple C:\Caesar III\frdeluxe)
-Dans les options de Julius ou d'Augustus, sélectionner comme langue le dossier "frdeluxe" et appliquez (Augustus) ou validez (Julius).
+1) Placez le dossier "frdeluxe" à la racine du dossier d'installation de Caesar III (par exemple C:\Caesar III\frdeluxe)
+2) Dans les options de Julius ou d'Augustus, sélectionnez comme langue le dossier "frdeluxe" et appliquez (Augustus) ou validez (Julius).
 
 - Si vous jouez sur la version d'origine (vanilla) de Caesar III, copiez les 2 fichiers contenus dans le dossier "frdeluxe" (c3.eng et c3_mm.eng) à la racine du dossier d'installation de Caesar III. Il est conseillé au préalable de faire une copie des 2 fichiers .eng d'origine, si vous désirez éventuellement revenir à la traduction originale.
 
@@ -47,7 +47,7 @@ Afin de distinguer ce bâtiment spécifique des ateliers/fabriques. Dans la vers
 
 - L'onglet "Atelier" (Workshops) dans le panneau latéral est renommé "Artisanat", car il comprend à la fois des ateliers et des fabriques en français.
 
-- "Petite maison, Grande maison" > "Petite casa, Grande Casa" ("Small Casa, Large Casa"), "Casa" signifiant génériquement "demeure" en latin.
+- "Petite maison, Grande maison" > "Petite casa, Grande casa" ("Small Casa, Large Casa"), "Casa" signifiant génériquement "demeure" en latin.
 On retrouve donc bien la progression Casa < Insula < Villa. Le terme "Maison" est utilisé génériquement dans la version française pour désigner n'importe quelle résidence.
 
 - "Insula imposante" > "Insula somptueuse" ("Grand Insula")
@@ -82,7 +82,7 @@ Pour toutes suggestions ou remontées d'erreurs, rendez-vous sur https://github.
 
 ou
 
-https://www.abandonware-forums.org/forum/autres/les-aventuriers-de-la-traduction-perdue
+https://www.abandonware-forums.org/forum/autres/les-aventuriers-de-la-traduction-perdue/836163-caesar-iii-traduction-frdeluxe#post836163
 
 
 #############

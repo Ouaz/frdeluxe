@@ -18,12 +18,12 @@ Cette nouvelle traduction est plus fidèle à la version anglaise, sans pour aut
 
 ## Installation
 
-- FrDeluxe nécessite la [version 1.1 FR de Caesar III](https://github.com/bvschaik/julius-support/releases/download/patches/caesar3_update_french.zip).
+- FrDeluxe nécessite le [patch 1.1 de Caesar III](https://github.com/bvschaik/julius/wiki/Patches) correspondant à la langue de votre version. FrDeluxe est compatible avec toutes les versions de Caesar III, quelle que soit la langue d'origine.
 
 - Si vous utilisez les mods [Julius](https://github.com/bvschaik/julius) ou [Augustus](https://github.com/Keriew/augustus):
 
 1) Placez le dossier `frdeluxe` à la racine du dossier d'installation de Caesar III (par exemple `C:\Caesar III\frdeluxe`)
-2) Dans les options de Julius ou d'Augustus, sélectionner comme langue le dossier `frdeluxe` et appliquez (Augustus) ou validez (Julius).
+2) Dans les options de Julius ou d'Augustus, sélectionnez comme langue le dossier `frdeluxe` et appliquez (Augustus) ou validez (Julius).
 
 - Si vous jouez sur la version d'origine (vanilla) de Caesar III, copiez les 2 fichiers contenus dans le dossier "frdeluxe" (`c3.eng` et `c3_mm.eng`) à la racine du dossier d'installation de Caesar III. Il est conseillé au préalable de faire une copie des 2 fichiers .eng d'origine, si vous désirez éventuellement revenir à la traduction originale.
 
