@@ -1435,7 +1435,7 @@
 -   <string id="1">Il ne serait pas convenable d'apparaître mal rasé en public ! Tout citoyen qui se respecte rend régulièrement visite au barbier et soigne son apparence.
 -   <string id="2">Ce barbier n'est pas opérationnel. Il n'est donc d'aucune utilité pour vos citoyens.
 -   <string id="3">Ce barbier est opérationnel, et les habitants sont bien rasés et coiffés.
-+   <string id="1">Il ne serait pas convenable pour un bon romain d'apparaître mal rasé en public ! Tout citoyen a besoin d'un coupe régulière chez un barbier professionnel, s'il désire gravir les échelons de la société.
++   <string id="1">Il ne serait pas convenable pour un bon romain d'apparaître mal rasé en public ! Tout citoyen a besoin d'une coupe régulière chez un barbier professionnel, s'il désire gravir les échelons de la société.
 +   <string id="2">Ce barbier n'est pas opérationnel, et n'est donc d'aucune utilité pour les citoyens.
 +   <string id="3">Ce barbier est opérationnel, et les citoyens du quartier sont fort bien apprêtés.
 -   <string id="1">C'est ici que sont enseignés aux enfants les rudiments de la lecture, de l'écriture et de la rhétorique.
