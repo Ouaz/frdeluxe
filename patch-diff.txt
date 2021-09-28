@@ -1270,7 +1270,7 @@
 +   <string id="27">Les rochers sont infranchissables et ne peuvent pas être déblayés. Les carrières de marbre et les mines de fer ne fonctionneront qu'à proximité de rochers.
 +   <string id="28">L'eau est infranchissable, mais des ponts peuvent l'enjamber à certains endroits. C'est également une voie commerciale vitale vers le reste de l'Empire, via la construction de docks. Les puits d'argile doivent se trouver près d'un plan d'eau.
 +   <string id="29">Terrain infranchissable, mais peut être dégagé pour permettre l'expansion de la cité. Les chantiers de bois doivent être bâtis à proximité d'arbres.
-+   <string id="30">Ces crevasses ont été causées par des tremblements de terre. On ne peut ni les franchir, ni les combler, et les gens ne préfèrent pas vivre à proximité.
++   <string id="30">Ces crevasses ont été causées par des tremblements de terre. On ne peut ni les franchir, ni les combler, et le peuple préfère ne pas vivre à proximité.
 +   <string id="31">Les routes sont vitales au bon fonctionnement de la cité, ses habitants s'aventurant à l'extérieur de leurs bâtiments via une route uniquement.
 +   <string id="32">Les aqueducs permettent de construire des réservoirs loin d'un point d'eau, afin d'alimenter les fontaines en eau potable pour les quartiers de la cité se trouvant à l'intérieur des terres.
 +   <string id="33">Ces décombres d'un ancien bâtiment réduisent l'attrait des terrains à proximité.
