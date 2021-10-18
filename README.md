@@ -1,6 +1,10 @@
-# FrDeluxe
+# Caesar III FrDeluxe
 
 ![FrDeluxe](https://raw.githubusercontent.com/Ouaz/frdeluxe/master/banniere.jpg)
+
+## Téléchargement
+
+Télécharger [FrDeluxe 1.0](https://github.com/Ouaz/frdeluxe/releases/download/v1.0/FrDeluxe_1.0.zip)
 
 ## Quel but ?
 
