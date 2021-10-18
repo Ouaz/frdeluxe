@@ -771,9 +771,9 @@
 +   <string id="54">La population est en colère contre vous
 +   <string id="55">La population est mitigée envers vous
 +   <string id="56">La population est indifférente envers vous
-+   <string id="57">La population est satisfaite de vous
-+   <string id="58">La population est très satisfaite de vous
-+   <string id="59">La population est fort satisfaite de vous
++   <string id="57">La population est contente de vous
++   <string id="58">La population est très contente de vous
++   <string id="59">La population est fort contente de vous
 +   <string id="60">La population vous adore
 +   <string id="61">Vous êtes un dieu aux yeux de la population
 -   <string id="65">Juste assez de nourriture produite pour la cité
