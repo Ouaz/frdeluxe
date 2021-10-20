@@ -1,7 +1,7 @@
 --- Traduction vanilla de Caesar III
 +++ Traduction FrDeluxe de Caesar III
 
-1074 modifications.
+1075 modifications.
 
 @@ -26,18 +26,18 @@
 -   <string id="7">A propos de Caesar III
@@ -388,6 +388,8 @@
 +   <string id="40">&quot;L'Empereur est vraiment enchanté par votre performance.&quot;
 +   <string id="41">&quot;L'Empereur est comblé par votre performance.&quot;
 +   <string id="42">&quot;L'Empereur est si béat d'admiration, qu'il parle de faire de vous son successeur.&quot;
+-   <string id="44">dans les caisses de la cité
++   <string id="44">en trésorerie
 -   <string id="46">Armes
 -   <string id="47">Cliquez ici pour expédier la requête.
 -   <string id="48">Impossible de satisfaire la requête.
