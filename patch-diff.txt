@@ -826,7 +826,7 @@
 +   <string id="21">Objectif premier : bâtir un grenier et le remplir de blé.
 +   <string id="22">Objectif premier : population de 250 habitants.
 +   <string id="23">Objectif premier : population de 450 habitants.
-+   <string id="24">Objectif premier : bâtir un entrepôt, stocker poteries.
++   <string id="24">Objectif premier : bâtir un entrepôt, stocker des poteries.
 +   <string id="25">Objectif premier : augmenter votre niveau de prospérité.
 +   <string id="26">Votre nom marquera l'histoire à jamais. Le peuple romain vous déclare Deus !
 +   <string id="27">Accepter le statut divin !
