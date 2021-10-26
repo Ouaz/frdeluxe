@@ -944,8 +944,8 @@
 -   <string id="32">Un barbier est passé récemment près de cette maison. Elle gardera donc un accès au barbier pendant longtemps.
 -   <string id="33">Cette maison a accès à un barbier.
 -   <string id="34">A moins qu'un barbier ne passe ici bientôt, cette maison perdra son accès au barbier.
-+   <string id="1">Ce terrain est relié à un réservoir par une canalisation, permettant le bon fonctionnement des fontaines et des thermes
-+   <string id="2">Ce terrain est relié à un réservoir par une canalisation, et dispose d'une source d'eau potable (puits ou fontaine)
++   <string id="1">Ce terrain est relié aux canalisations d'un réservoir, permettant le bon fonctionnement des fontaines et des thermes
++   <string id="2">Ce terrain est relié aux canalisations d'un réservoir, et dispose d'une source d'eau potable (puits ou fontaine)
 +   <string id="3">Ce terrain dispose d'une source d'eau potable
 +   <string id="4">Cette maison n'a pas de réserve de nourriture
 +   <string id="5">Cette maison aura bientôt épuisé sa réserve limitée de nourriture
@@ -1433,7 +1433,7 @@
 +   <string id="1">Les personnes civilisées prennent un bain au moins une fois par jour. Au-delà de l'amélioration de l'hygiène publique, les thermes sont également un agréable lieu de rencontre, offrant des activités de détente diverses et variées.
 +   <string id="2">Ces thermes ne sont pas opérationnels. Sans aucun serviteur, qui voudrait bien prendre son bain ici ?
 +   <string id="3">Ces thermes sont opérationnels, et les citoyens du quartier sont propres et détendus.
-+   <string id="4">Ces thermes ont besoin d'être reliés à un réservoir par une canalisation.
++   <string id="4">Ces thermes ont besoin d'être reliés aux canalisations d'un réservoir.
 -   <string id="1">Il ne serait pas convenable d'apparaître mal rasé en public ! Tout citoyen qui se respecte rend régulièrement visite au barbier et soigne son apparence.
 -   <string id="2">Ce barbier n'est pas opérationnel. Il n'est donc d'aucune utilité pour vos citoyens.
 -   <string id="3">Ce barbier est opérationnel, et les habitants sont bien rasés et coiffés.
