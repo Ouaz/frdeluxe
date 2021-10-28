@@ -1,7 +1,7 @@
 --- Traduction vanilla de Caesar III
 +++ Traduction FrDeluxe de Caesar III
 
-1075 modifications.
+1076 modifications.
 
 @@ -26,18 +26,18 @@
 -   <string id="7">A propos de Caesar III
@@ -714,6 +714,8 @@
 @@ -1585,22 +1585,22 @@
 -   <string id="5">de la population est redevable de taxes
 +   <string id="5">de la population est inscrite au registre fiscal
+-   <string id="7">Depuis le début de l'année
++   <string id="7">Pour l'année en cours
 -   <string id="12">Salaire
 +   <string id="12">Salaires
 -   <string id="18">Bénéfices / Pertes
