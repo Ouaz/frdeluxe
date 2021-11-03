@@ -689,7 +689,7 @@
 +   <string id="19">(Guerre)
 +   <string id="20">(Amour)
 +   <string id="21">Vos citoyens commencent à s'intéresser à la religion. Le manque d'accès à un lieu de culte proche freine le développement de la cité.
-+   <string id="22">De plus en plus de citoyens réclament au moins un lieu de culte dans leur quartier pour que les dieux aient une meilleure opinion à leur sujet.
++   <string id="22">De plus en plus de citoyens réclament au moins un lieu de culte dans leur quartier afin que les dieux aient une meilleure opinion à leur sujet.
 +   <string id="23">Des citoyens désirent accéder à un autre culte près de chez eux. Le manque de diversité religieuse limite le développement dans certains secteurs.
 +   <string id="24">Des citoyens désirent qu'un troisième culte soit représenté dans leur quartier. Ils pensent que cela aidera à attirer une classe plus noble de patriciens.
 +   <string id="25">Pour l'instant, vos citoyens sont surtout préoccupés par l'aspect matériel de l'existence. Mais avec le développement de la cité, ils souhaiteront avoir un accès correct à une grande variété de temples.
@@ -1288,7 +1288,7 @@
 +   <string id="40">Cette route mène aux vastes étendues de l'Empire. Il s'agit d'une Voie impériale, et par conséquent, la liberté de passage doit être assurée en toute circonstance.
 -   <string id="1">Les gens viennent ici pour assister à des représentations théâtrales ou à des combats de gladiateurs.
 -   <string id="2">Cet amphithéâtre ne propose pas de spectacles. Il manque d'acteurs et de gladiateurs qui viennent s'y produire.
-+   <string id="1">Les citoyens viennent en ce lieu pour assister à des pièces de théâtre ou à des combats de gladiateurs.
++   <string id="1">Les citoyens viennent ici pour assister à des pièces de théâtre ou des combats de gladiateurs.
 +   <string id="2">Cet amphithéâtre ne propose jamais de spectacles. Il manque d'acteurs et de gladiateurs venant s'y produire.
 -   <string id="4">Cet amphithéâtre héberge des combats de gladiateurs pour la plus grande joie de vos citoyens. Mais il manque d'acteurs pour sa programmation théâtrale.
 -   <string id="5">Des acteurs viennent souvent ici présenter leurs pièces, mais l'amphithéâtre attirerait plus de monde s'il proposait aussi des combats.
