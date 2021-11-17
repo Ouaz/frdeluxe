@@ -367,7 +367,7 @@
 -   <string id="41">L'empereur est comblé par votre performance.
 -   <string id="42">L'empereur est béat d'admiration et parle de faire de vous son successeur.
 +   <string id="21">L'Empereur ne vous demande rien pour l'instant.
-+   <string id="22">&quot;L'Empereur est totalement exaspéré. Il parle même de vous exiler.&quot;
++   <string id="22">&quot;L'Empereur est totalement exaspéré. Il envisage même de vous exiler.&quot;
 +   <string id="23">&quot;L'Empereur est furieux contre vous.&quot;
 +   <string id="24">&quot;L'Empereur est dans une colère noire contre vous.&quot;
 +   <string id="25">&quot;L'Empereur est très en colère contre vous.&quot;
@@ -387,7 +387,7 @@
 +   <string id="39">&quot;L'Empereur est très enchanté par votre performance.&quot;
 +   <string id="40">&quot;L'Empereur est vraiment enchanté par votre performance.&quot;
 +   <string id="41">&quot;L'Empereur est comblé par votre performance.&quot;
-+   <string id="42">&quot;L'Empereur est si béat d'admiration, qu'il parle de faire de vous son successeur.&quot;
++   <string id="42">&quot;L'Empereur est si admiratif, qu'il envisage de vous nommer comme successeur.&quot;
 -   <string id="44">dans les caisses de la cité
 +   <string id="44">en trésorerie
 -   <string id="46">Armes
