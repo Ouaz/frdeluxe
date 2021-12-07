@@ -1545,7 +1545,7 @@
 +   <string id="14">ATTENTION : cet entrepôt est presque plein. Il n'accepte que certains biens déjà en stock, et refusera tout nouveau type de marchandises.
 +   <string id="15">Notre charrette est là, et attend les instructions.
 +   <string id="16">Notre charrette livre des biens ailleurs actuellement.
-+   <string id="17">Notre charrette est de retour d'une livraison.
++   <string id="17">Notre charrette revient d'une livraison.
 -   <string id="1">Alimenté en bois et en main d'œuvre, le chantier naval construit des bateaux de pêche pour les quais de la cité.
 +   <string id="1">Avec quelques charrettes de bois et assez d'ouvriers, le chantier naval construit des bateaux de pêche pour les quais de la cité.
 -   <string id="4">Il n'y a actuellement pas de quais pour accueillir nos bateaux de pêche.
