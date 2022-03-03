@@ -1668,7 +1668,7 @@
 -   <string id="11">Les champs de cette ferme ont été récemment ravagés par un essaim de criquets, et la production va s'en ressentir.
 +   <string id="4">La production de blé est suspendue sur ordre de votre conseiller commercial.
 +   <string id="5">Cette ferme n'a pas de main-d'œuvre. Ses champs sont en friche.
-+   <string id="6">Cette ferme dispose de toute la main-d'œuvre nécessaire. Son rendement est au maximum pour sa superficie.
++   <string id="6">Cette ferme dispose de toute la main-d'œuvre nécessaire. Sa productivité est au maximum pour sa superficie.
 +   <string id="7">Cette ferme n'opère pas à sa capacité maximale. Davantage de main-d'œuvre la rendrait plus productive.
 +   <string id="8">Cette ferme est en sous-effectif. Les employés mettent beaucoup de temps pour produire le blé.
 +   <string id="9">Très peu de paysans travaillent ici. La production de blé est par conséquent très lente.
@@ -1893,7 +1893,7 @@
 +   <string id="4">La production d'huile doit cesser sur ordre de votre conseiller commercial.
 +   <string id="5">Cette huilerie n'a pas de main-d'œuvre, et ne produira donc pas d'huile.
 +   <string id="6">Cette huilerie dispose d'un effectif au complet, et produit à foison une huile de grande qualité.
-+   <string id="7">Cette huilerie aurait besoin de plus d'employés pour atteindre son rendement optimal en production d'huile.
++   <string id="7">Cette huilerie aurait besoin de plus d'employés pour atteindre sa productivité optimale en huile.
 +   <string id="8">Cette huilerie est en sous-effectif. La production d'huile est plus lente qu'elle ne devrait.
 +   <string id="9">Très peu d'employés travaillent dans cette huilerie. La production d'huile est par conséquent très lente.
 +   <string id="10">Avec quasiment aucun employé dans cette huilerie, la production est réduite à un mince filet. Très peu d'huile sera produite pour l'année à venir.
