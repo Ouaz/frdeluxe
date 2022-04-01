@@ -1682,7 +1682,7 @@
 -   <string id="1">Les légumes sont importants pour l'équilibre alimentaire de votre peuple et pour son bien-être. Les greniers stockent les légumes destinés à la consommation, et les entrepôts emmagasinent les surplus destinés à l'exportation.
 -   <string id="2">La construction est à
 +   <string id="0">Ferme potagère
-+   <string id="1">Les légumes sont importants pour l'équilibre alimentaire de votre population, sa santé et son bien-être. Les greniers stockent les légumes réservés à la consommation de la cité, et les entrepôts l'excédent destiné à l'exportation.
++   <string id="1">Les légumes sont importants pour l'équilibre alimentaire, la santé et le bien-être des citoyens. Les greniers stockent les légumes cultivés pour la cité, et les entrepôts l'excédent à exporter.
 +   <string id="2">La production est à
 -   <string id="4">La production de légumes est arrêtée sur ordre de votre conseiller commercial.
 -   <string id="5">Cette ferme n'emploie personne. Rien n'a été planté.
@@ -1704,7 +1704,7 @@
 -   <string id="1">Les fruits sont importants pour l'équilibre nutritionnel de votre peuple et pour son plaisir. Les greniers stockent les fruits destinés à la consommation, et les entrepôts emmagasinent les surplus destinés à l'exportation.
 -   <string id="2">La construction est à
 +   <string id="0">Ferme fruitière
-+   <string id="1">Les fruits sont importants pour l'équilibre alimentaire de votre population, sa santé et son bien-être. Les greniers stockent les fruits réservés à la consommation de la cité, et les entrepôts l'excédent destiné à l'exportation.
++   <string id="1">Les fruits sont importants pour l'équilibre alimentaire, la santé et le bien-être des citoyens. Les greniers stockent les fruits cultivés pour la cité, et les entrepôts l'excédent à exporter.
 +   <string id="2">La production est à
 -   <string id="4">La production de fruits est arrêtée sur ordre de votre conseiller commercial.
 -   <string id="5">Ce verger n'emploie personne. La production a cessé.
@@ -1770,7 +1770,7 @@
 -   <string id="1">Des citoyens bien nourris apprécient la viande sous toutes ses formes. Elle peut être conservée dans des greniers pour être consommée localement, ou stockée dans des entrepôts avant d'être exportée.
 -   <string id="2">La construction est à
 +   <string id="0">Ferme porcine
-+   <string id="1">Des citoyens bien nourris désirent de la viande dans leur régime alimentaire. Elle peut être conservée dans des greniers pour la consommation de la cité, ou stockée dans des entrepôts pour l'exportation.
++   <string id="1">Des citoyens bien nourris désirent de la viande dans leur régime alimentaire. Elle peut être conservée dans les greniers pour la consommation locale, ou dans les entrepôts pour l'exporter.
 +   <string id="2">La production est à
 -   <string id="4">Votre conseiller commercial a ordonné l'arrêt de la production de viande de porc.
 -   <string id="5">Cette ferme n'emploie personne, et tous les animaux se sont enfuis ou sont morts.
@@ -1790,7 +1790,7 @@
 +   <string id="11">Les champs de cette ferme ont été ravagés récemment par une nuée de sauterelles. Le bétail est limité le temps que la terre récupère.
 -   <string id="1">Le marbre extrait des rochers adjacents est utilisé pour construire les oracles et les temples. C'est également un produit d'exportation très recherché.
 -   <string id="2">La construction est à
-+   <string id="1">Le marbre extrait des rochers adjacents est utilisé pour bâtir les oracles et les grands temples. Il s'agit également d'un bien d'exportation de bonne valeur.
++   <string id="1">Le marbre extrait des rochers adjacents est utilisé pour bâtir les oracles et les grands temples. Il s'agit généralement d'un bien d'exportation de grande valeur.
 +   <string id="2">La production est à
 -   <string id="4">Votre conseiller commercial a ordonné de mettre un frein à l'extraction du marbre.
 -   <string id="5">Cette carrière n'emploie personne. La production est arrêtée.
@@ -1826,7 +1826,7 @@
 +   <string id="10">Avec quasiment aucun mineur ici, l'extraction est presque à l'arrêt. Très peu de fer sera extrait pour l'année à venir.
 -   <string id="1">Le bois peut être revendu ou utilisé pour fabriquer des meubles. Les citoyens veulent de jolis meubles pour décorer leur maison, et ces ouvrages s'exportent bien.
 -   <string id="2">La construction est à
-+   <string id="1">Le bois est coupé pour l'exportation, ou pour fournir les ateliers de meubles. Les citoyens désirent du mobilier pour aménager leur maison, ou bien vous pouvez exporter ces marchandises sur vos routes commerciales.
++   <string id="1">Le bois est coupé pour l'exportation ou pour fournir les ateliers de meubles. Les citoyens désirent du mobilier pour aménager leur maison, ou bien exportez-le sur vos routes commerciales.
 +   <string id="2">La production est à
 -   <string id="4">Votre conseiller commercial a ordonné l'arrêt de la coupe des arbres.
 -   <string id="5">Ce chantier n'emploie personne. La production a cessé.
@@ -1844,7 +1844,7 @@
 +   <string id="10">Avec quasiment aucun bûcheron ici, la coupe du bois est presque à l'arrêt.
 -   <string id="1">L'argile peut être revendue ou exploitée par des potiers. Les plébéiens ont besoin de poteries lorsqu'ils vivent dans une insula. Les poteries peuvent également être exportées vers d'autres provinces.
 -   <string id="2">La construction est à
-+   <string id="1">L'argile est extraite pour l'exportation, ou pour fournir les ateliers de poterie. Les citoyens désirent des poteries pour décorer leur nouvelle insula. Vous pouvez également faire commerce des poteries avec d'autres provinces.
++   <string id="1">L'argile est extraite pour l'exportation ou pour fournir les ateliers de poterie. Les citoyens désirent des poteries pour décorer leur insula, ou bien faites-en commerce avec d'autres provinces.
 +   <string id="2">La production est à
 -   <string id="4">Votre conseiller commercial a ordonné de mettre un frein à l'extraction d'argile.
 -   <string id="5">Ce puits n'emploie personne. La production est inexistante.
