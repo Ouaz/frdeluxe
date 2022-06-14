@@ -748,7 +748,7 @@
 -   <string id="22">Le taux d'imposition est trop élevé
 +   <string id="15">Bénéfice cette année de
 +   <string id="16">Déficit cette année de
-+   <string id="17">Pas de changement à prévoir
++   <string id="17">Pas d'évolution à noter
 +   <string id="18">Le manque de logements freine l'immigration
 +   <string id="19">Les bas salaires freinent l'immigration
 +   <string id="20">Le manque d'emplois freine l'immigration
