@@ -57,7 +57,7 @@ On retrouve donc bien la progression Casa < Insula < Villa. Le terme "Maison" es
 
 - Les "Workshops" produisant des "vivres de confort" sont renommés "Fabrique" ("Fabrique de vin, Fabrique d'huile"), ceux produisant des biens manufacturés sont renommés "Atelier" ("Atelier d'armes, Atelier de meubles, Atelier de poterie"), pour s'approcher de la catégorisation anglaise. Les termes spécifiques (comme "Huilerie") sont toujours utilisés dans le panneau d'information de chaque atelier ou fabrique.
 
-- Les industries arrêtées sur ordre du conseiller commercial sont désormais "suspendues" ("mothballed") et non plus "inactives", pour les différencier des industries réellement "inactives" par manque de main-d'œuvre. Ce qui donne trois statuts pour une industrie: fonctionnelle > suspendue > désœuvrée ("working, mothballed, idle")
+- Les industries arrêtées sur ordre du conseiller commercial sont désormais "suspendues" ("mothballed") et non plus "inactives", pour les différencier des industries réellement "inactives" par manque de main-d'œuvre. Ce qui donne trois statuts pour une industrie: active > suspendue > désœuvrée ("working, mothballed, idle")
 
 - "Dompteur de lions" > "Dresseur de lions" ("Lion Tamer").
 Les lions sont "dressés" pour l'arène, et non pas "domptés" (l'erreur vient du fait que "Lion Pit" avait été traduit "Parc à lions", avec toujours cette idée qu'il s'agissait d'un lieu de divertissement)
@@ -71,7 +71,7 @@ Mauvaise traduction à l'origine, puisque il s'agit de l'employée du marché ch
 
 - L'Aide du jeu a été également entièrement retravaillée: correspondance des termes utilisés avec ceux du jeu, traduction plus précise des différents articles, correction des incohérences et inexactitudes.
 
-Vous pouvez consulter en détail toutes les modifications apportées en consultant le fichier patch-diff.txt, listant les 1079 entrées modifiées pour le jeu principal, mais pas celles de l'Aide (trop nombreuses!).
+Vous pouvez consulter en détail toutes les modifications apportées en consultant le fichier patch-diff.txt, listant les 1082 entrées modifiées pour le jeu principal, mais pas celles de l'Aide (trop nombreuses!).
 
 Notes: 
 - Le fichier c3.eng contient toutes les entrées du jeu principal.

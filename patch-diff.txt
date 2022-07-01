@@ -1,7 +1,7 @@
 --- Traduction vanilla de Caesar III
 +++ Traduction FrDeluxe de Caesar III
 
-1080 modifications.
+1082 modifications.
 
 @@ -6,7 +6,7 @@
 -   <string id="5">Quitter
@@ -500,8 +500,12 @@
 -   <string id="6">Exporté à partir de
 +   <string id="5">Importer
 +   <string id="6">Exporter à partir de
+-   <string id="8">industrie fonctionnelle dans la cité
+-   <string id="9">industries fonctionnelles dans la cité
 -   <string id="10">industrie inactive dans la cité
 -   <string id="11">industries inactives dans la cité
++   <string id="8">industrie active dans la cité
++   <string id="9">industries actives dans la cité
 +   <string id="10">industrie suspendue dans la cité
 +   <string id="11">industries suspendues dans la cité
 -   <string id="13">industries désœuvrées dans la cité
@@ -961,7 +965,7 @@
 +   <string id="5">Cette maison aura bientôt épuisé sa réserve limitée de nourriture
 +   <string id="6">Cette maison dispose de réserves de nourriture pour au moins le mois à venir
 +   <string id="7">Cette maison ne rencontre pas de problèmes pour obtenir la nourriture dont elle a besoin
-+   <string id="8">Cette maison n'a pas accès à des thermes fonctionnels
++   <string id="8">Cette maison n'a pas accès à des thermes opérationnels
 +   <string id="9">Une employée des thermes est passé récemment près de cette maison. Elle aura donc accès aux thermes pour longtemps.
 +   <string id="10">Cette maison a accès aux thermes
 +   <string id="11">À moins qu'une employée des thermes ne passe ici bientôt, cette maison perdra son accès aux thermes
