@@ -1,15 +1,27 @@
 --- Traduction vanilla de Caesar III
 +++ Traduction FrDeluxe de Caesar III
 
-1082 modifications.
+1087 modifications.
 
 @@ -6,7 +6,7 @@
 -   <string id="5">Quitter
 +   <string id="5">Quitter le jeu
 
-@@ -26,18 +26,18 @@
+@@ -21,18 +21,18 @@
+-   <string id="2">Pas de bulles d'aide
+-   <string id="3">Quelques bulles d'aide
+-   <string id="4">Toutes les bulles d'aide
+-   <string id="5">Pas d'avertissements
+-   <string id="6">Avertissements
 -   <string id="7">A propos de Caesar III
++   <string id="2">Pas d'infobulles
++   <string id="3">Quelques infobulles
++   <string id="4">Toutes les infobulles
++   <string id="5">Alertes - OFF
++   <string id="6">Alertes - ON
 +   <string id="7">À propos de Caesar III
+
+@@ -33,19 +33,19 @@
 -   <string id="4">Evaluation
 +   <string id="4">Évaluation
 -   <string id="8">Education
