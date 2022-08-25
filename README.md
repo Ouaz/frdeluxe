@@ -4,7 +4,7 @@
 
 ## Téléchargement
 
-Télécharger [FrDeluxe 1.1](https://github.com/Ouaz/frdeluxe/releases/download/v1.1/FrDeluxe_1.1.zip)
+Télécharger [FrDeluxe 1.2](https://github.com/Ouaz/frdeluxe/releases/download/v1.2/FrDeluxe_1.2.zip)
 
 ## Quel but ?
 
@@ -35,7 +35,7 @@ Cette nouvelle traduction est plus fidèle à la version anglaise, sans pour aut
 
 Consultez la liste des [principaux changements](https://github.com/Ouaz/frdeluxe/releases).
 
-Pour afficher toutes les modifications apportées, consultez le fichier [`patch-diff.txt`](https://github.com/Ouaz/frdeluxe/blob/master/patch-diff.txt), listant les 1079 entrées modifiées pour le jeu principal, mais pas celles de l'Aide (trop nombreuses!).
+Pour afficher toutes les modifications apportées, consultez le fichier [`patch-diff.txt`](https://github.com/Ouaz/frdeluxe/blob/master/patch-diff.txt), listant les 1087 entrées modifiées pour le jeu principal, mais pas celles de l'Aide (trop nombreuses!).
 
 Notes: 
 - Le fichier `c3.eng` contient toutes les entrées du jeu principal.
