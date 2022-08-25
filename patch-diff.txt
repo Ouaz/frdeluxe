@@ -854,7 +854,7 @@
 +   <string id="23">Objectif premier : population de 450 habitants.
 +   <string id="24">Objectif premier : bâtir un entrepôt, stocker des poteries.
 +   <string id="25">Objectif premier : augmenter votre niveau de prospérité.
-+   <string id="26">Votre nom marquera l'histoire à jamais. Le peuple romain vous déclare Deus !
++   <string id="26">Votre nom marquera l'Histoire à jamais. Le peuple romain vous déclare Deus !
 +   <string id="27">Accepter le statut divin !
 -   <string id="0">Messages de vos scribes.
 -   <string id="1">Vous n'avez actuellement aucun message à lire. Au cours de l'évolution de la cité ou lorsque l'empereur vous demandera des biens, des messages seront affichés ici.
