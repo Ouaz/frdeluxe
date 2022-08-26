@@ -59,7 +59,7 @@
 
 @@ -165,11 +165,11 @@
 -   <string id="1">Aller vers la zone de troubles
-+   <string id="1">Aller vers la zone à problèmes
++   <string id="1">Aller vers la zone du problème
 -   <string id="3">Les stocks de nourriture sont presque épuisés.
 -   <string id="4">Le taux de chômage élevé pose des problèmes.
 -   <string id="5">Le taux d'imposition élevé pose des problèmes.
@@ -1195,7 +1195,7 @@
 -   <string id="71">Consulter le rapport sur les armées
 +   <string id="71">Consulter le rapport sur la légion
 -   <string id="130">Cliquez ici pour aller vers cette zone de troubles
-+   <string id="130">Cliquez ici pour aller vers cette zone à problèmes
++   <string id="130">Cliquez ici pour aller sur le lieu du problème
 
 @@ -2669,7 +2669,7 @@
 -   <string id="82">Retourner à l'écran de jeu
