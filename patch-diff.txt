@@ -608,7 +608,7 @@
 +   <string id="13">Le développement de certains quartiers est ralenti par une faible couverture hospitalière. De nouveaux hôpitaux attireront plus de patriciens dans la cité.
 +   <string id="14">Aucune requête de structures sanitaires ou médicales actuellement. Mais avec le développement de la cité, les habitants souhaiteront des thermes et des structures médicales, puis réclameront des barbiers, et une couverture médicale encore plus importante.
 +   <string id="15">Votre petite colonie n'a eu aucun problème d'hygiène pour l'instant.
-+   <string id="16">L'hygiène de la cité est épouvantable ! Germes et virus y prolifèrent en toute quiétude.
++   <string id="16">L'hygiène de la cité est épouvantable ! Les épidémies sont inévitables dans de telles conditions.
 +   <string id="17">L'hygiène de la cité est pitoyable ! Les dispensaires ne peuvent enrayer la propagation des maladies.
 +   <string id="18">L'hygiène de la cité est déplorable. Les médecins sont débordés et craignent une terrible épidémie.
 +   <string id="19">L'hygiène de la cité est très insuffisante. Plus de nourriture et de dispensaires amélioreraient la situation.
