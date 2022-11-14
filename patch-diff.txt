@@ -1,7 +1,7 @@
 --- Traduction vanilla de Caesar III
 +++ Traduction FrDeluxe de Caesar III
 
-1087 modifications.
+1094 modifications.
 
 @@ -6,7 +6,7 @@
 -   <string id="5">Quitter
@@ -36,6 +36,8 @@
 +   <string id="11">Demandez au conseiller militaire d'assigner des légions opérationnelles au service de l'Empire
 -   <string id="15">Etes-vous sûr de vouloir supprimer ce fort ?
 +   <string id="15">Êtes-vous sûr de vouloir supprimer ce fort ?
+-   <string id="17">Veuillez mettre le CD de Caesar III dans votre lecteur de CD-ROM
++   <string id="17">Veuillez insérer le CD de Caesar III dans votre lecteur de CD-ROM
 
 @@ -87,7 +87,7 @@
 -   <string id="5">Mois
@@ -59,7 +61,7 @@
 
 @@ -165,11 +165,11 @@
 -   <string id="1">Aller vers la zone de troubles
-+   <string id="1">Aller vers la zone du problème
++   <string id="1">Aller sur la zone du problème
 -   <string id="3">Les stocks de nourriture sont presque épuisés.
 -   <string id="4">Le taux de chômage élevé pose des problèmes.
 -   <string id="5">Le taux d'imposition élevé pose des problèmes.
@@ -207,7 +209,9 @@
 +   <string id="8">Consul
 +   <string id="9">Proconsul
 
-@@ -726,7 +726,7 @@
+@@ -722,7 +722,7 @@
+-   <string id="31">Un Britannique
++   <string id="31">Un Briton
 -   <string id="35">Un guerrier visigoth
 +   <string id="35">Un guerrier wisigoth
 
@@ -300,12 +304,20 @@
 @@ -1077,24 +1077,24 @@
 -   <string id="0">Une lointaine cité.
 +   <string id="0">Une lointaine cité
+-   <string id="4">Achats
+-   <string id="5">Ventes
 -   <string id="6">pour ouvrir une route de commerce.
 -   <string id="7">Vers l'écran de commerce
 -   <string id="8">Cliquez sur une cité pour obtenir des informations à son sujet.
+-   <string id="9">Acheté
+-   <string id="10">Vendu
++   <string id="4">Achète
++   <string id="5">Vend
 +   <string id="6">pour ouvrir une route de commerce
 +   <string id="7">Vers le rapport de commerce
 +   <string id="8">Cliquez sur une cité pour obtenir des informations à son sujet
++   <string id="9">A acheté
++   <string id="10">A vendu
 -   <string id="14">Armée ennemie menaçant une cité de l'empire
 -   <string id="15">Votre légion part soutenir une cité de l'empire
 -   <string id="16">Votre légion retourne dans sa cité
@@ -1611,7 +1623,7 @@
 +   <string id="7">Notre bateau de pêche revient des eaux poissonneuses avec sa cargaison.
 +   <string id="8">Nos pêcheurs espèrent qu'un jour quelqu'un découvrira des eaux poissonneuses dans cette province, sinon ils auront bien du mal à gagner leur vie.
 -   <string id="1">Le quartier où vous avez élu domicile est forcément devenu un des plus attrayants de la ville.
-+   <string id="1">Le quartier où vous avez élu domicile est forcément devenu l'un des plus attrayants de la cité.
++   <string id="1">Le quartier où vous avez élu domicile est évidemment devenu l'un des plus attrayants de la cité.
 -   <string id="1">Les ingénieurs sont des professionnels respectés et dont les services sont très demandés. Une maintenance régulière permet d'éviter que les bâtiments ne s'effondrent.
 -   <string id="2">Notre ingénieur travaille à l'extérieur.
 -   <string id="3">Notre ingénieur se prépare à sortir.
@@ -2156,6 +2168,10 @@
 @@ -3639,7 +3639,7 @@
 -   <string id="155">&quot;Les dockers sont en train d'emporter nos biens dans l'entrepôt&quot;
 +   <string id="155">&quot;Les dockers sont en train de porter nos biens dans l'entrepôt&quot;
+
+@@ -3784,7 +3784,7 @@
+-   <string id="300">&quot;Cette cité est... Acceptable&quot;
++   <string id="300">&quot;Cette cité est... acceptable&quot;
 
 @@ -3804,7 +3804,7 @@
 -   <string id="320">&quot;Ave citoyen ! Etes-vous au courant de la colère des dieux ?&quot;
