@@ -61,7 +61,7 @@
 
 @@ -165,11 +165,11 @@
 -   <string id="1">Aller vers la zone de troubles
-+   <string id="1">Aller sur la zone du problème
++   <string id="1">Voir la zone du problème
 -   <string id="3">Les stocks de nourriture sont presque épuisés.
 -   <string id="4">Le taux de chômage élevé pose des problèmes.
 -   <string id="5">Le taux d'imposition élevé pose des problèmes.
