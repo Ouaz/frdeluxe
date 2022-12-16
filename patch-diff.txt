@@ -449,7 +449,7 @@
 -   <string id="75">Une armée conséquente nous attaquera dans
 +   <string id="73">Une armée modeste attaquera dans
 +   <string id="74">Une armée moyenne attaquera dans
-+   <string id="75">Une armée importante attaquera dans
++   <string id="75">Une armée imposante attaquera dans
 -   <string id="77">Le sénat refuse de vous verser un salaire car vous avez décliné la promotion de Rome.
 +   <string id="77">Le Sénat refuse désormais de vous verser un salaire, puisque vous avez décliné la promotion de Rome.
 -   <string id="4">Faveur
@@ -1449,7 +1449,7 @@
 -   <string id="1">Un petit coin de calme et de verdure pour qui veut s'isoler du vacarme de la cité. Tout le monde apprécie la présence d'un jardin dans son voisinage.
 +   <string id="1">Ce charmant aménagement de verdure procure aux citoyens un oasis de sérénité, à l'écart du bruit, de la chaleur, et de la poussière de la cité. Tout le monde apprécie la présence d'un jardin au pas de sa porte.
 -   <string id="1">Les monuments dédiés aux personnes célèbres ou aux évènements historiques augmentent le prestige des quartiers où ils sont édifiés. Les gens sont fiers de vivre à côté de statues... surtout si elles sont imposantes.
-+   <string id="1">Les monuments dédiés aux citoyens illustres et aux évènements historiques augmentent le prestige d'un quartier. Les gens sont fiers de vivre à côté de magnifiques statues... Et plus elles sont imposantes, mieux c'est.
++   <string id="1">Les monuments dédiés aux citoyens illustres et aux événements historiques augmentent le prestige d'un quartier. Les gens sont fiers de vivre à côté de magnifiques statues... Et plus elles sont imposantes, mieux c'est.
 -   <string id="3">Cet édifice grandiose a été construit pour commémorer les glorieuses victoires de l'armée romaine.  Il est d'un prestige sans égal.
 +   <string id="3">Cet édifice grandiose commémore les victoires historiques de Rome sur ses ennemis. Il est d'un prestige sans égal.
 -   <string id="1">Le médecin, au cours de sa tournée, se préoccupe de l'hygiène des citoyens et offre un service de proximité. Il est indispensable à l'évolution d'un secteur.
