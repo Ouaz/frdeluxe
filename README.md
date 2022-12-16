@@ -4,7 +4,7 @@
 
 ## Téléchargement
 
-Télécharger [FrDeluxe 1.2](https://github.com/Ouaz/frdeluxe/releases/download/v1.2/FrDeluxe_1.2.zip)
+Télécharger [FrDeluxe 1.3](https://github.com/Ouaz/frdeluxe/releases/download/v1.3/FrDeluxe_1.3.zip)
 
 ## Quel but ?
 
@@ -16,7 +16,7 @@ Bien que tout à fait correcte, la traduction française d'origine de Caesar III
 
 - Problèmes de formatage: de nombreuses ponctuations inutiles (par exemple sur les boutons), et quelques problèmes d'adaptation à l'interface (principalement dans les Rapports et les Messages).
 
-La pack de langue FrDeluxe remédie à ces problèmes en proposant une traduction française améliorée, corrigée et harmonisée pour le jeu principal et l'Aide en jeu (mais pas pour l'éditeur de cartes, peut-être plus tard).
+La pack de langue FrDeluxe remédie à ces problèmes en proposant une traduction française améliorée, corrigée et harmonisée pour le jeu principal, l'Aide en jeu, ainsi que l'Éditeur de cartes et son Aide.
 
 Cette nouvelle traduction est plus fidèle à la version anglaise, sans pour autant modifier trop profondément les traductions d'origine auxquelles tous les fans français du jeu se sont habitués.
 
@@ -29,17 +29,19 @@ Cette nouvelle traduction est plus fidèle à la version anglaise, sans pour aut
 1) Placez le dossier `frdeluxe` à la racine du dossier d'installation de Caesar III (par exemple `C:\Caesar III\frdeluxe`)
 2) Dans les options de Julius ou d'Augustus, sélectionnez comme langue le dossier `frdeluxe` et appliquez (Augustus) ou validez (Julius).
 
-- Si vous jouez sur la version d'origine (vanilla) de Caesar III, copiez les 2 fichiers contenus dans le dossier "frdeluxe" (`c3.eng` et `c3_mm.eng`) à la racine du dossier d'installation de Caesar III. Il est conseillé au préalable de faire une copie des 2 fichiers .eng d'origine, si vous désirez éventuellement revenir à la traduction originale.
+- Si vous jouez sur la version d'origine (vanilla) de Caesar III, copiez les 4 fichiers contenus dans le dossier "frdeluxe" (c3.eng / c3_mm.eng / c3_map.eng / c3_map_mm.eng) à la racine du dossier d'installation de Caesar III. Il est conseillé au préalable de faire une copie des 4 fichiers .eng d'origine, si vous désirez éventuellement revenir à la traduction originale.
 
 ## Quelles modifications ?
 
-Consultez la liste des [principaux changements](https://github.com/Ouaz/frdeluxe/releases).
+Consultez la liste des [principaux changements](https://github.com/Ouaz/frdeluxe/blob/master/LisezMoi_FrDeluxe.txt#L37) dans le fichier LisezMoi_FrDeluxe.txt.
 
-Pour afficher toutes les modifications apportées, consultez le fichier [`patch-diff.txt`](https://github.com/Ouaz/frdeluxe/blob/master/patch-diff.txt), listant les 1087 entrées modifiées pour le jeu principal, mais pas celles de l'Aide (trop nombreuses!).
+Pour afficher toutes les modifications apportées, consultez le fichier [`patch-diff.txt`](https://github.com/Ouaz/frdeluxe/blob/master/patch-diff.txt), listant les 1094 entrées modifiées pour le jeu principal, mais pas celles de l'Aide (trop nombreuses!), ni celles de l'Éditeur de cartes et de son Aide.
 
 Notes: 
 - Le fichier `c3.eng` contient toutes les entrées du jeu principal.
-- Le fichier `c3_mm.eng` contient toutes les entrées de l'Aide, les messages des scribes, les événements spéciaux, et les briefings de mission. 
+- Le fichier `c3_mm.eng` contient toutes les entrées de l'Aide, les messages des scribes, les événements spéciaux, et les briefings de mission.
+- Le fichier `c3_map.eng` contient les entrées supplémentaires de l'Éditeur de cartes.
+- Le fichier `c3_map_mm.eng` contient les entrées supplémentaires de l'Aide de l'Éditeur de cartes. 
 - Aucune ligne de dialogue n'a été modifiée car elles sont toutes accompagnées d'un fichier audio. 
 
 Pour toutes suggestions ou remontées d'erreurs, rendez-vous sur
