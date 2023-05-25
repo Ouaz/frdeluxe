@@ -1,7 +1,7 @@
 --- Traduction vanilla de Caesar III
 +++ Traduction FrDeluxe de Caesar III
 
-1094 modifications.
+1097 modifications.
 
 @@ -6,7 +6,7 @@
 -   <string id="5">Quitter
@@ -221,7 +221,7 @@
 
 @@ -752,7 +752,7 @@
 -   <string id="3">Ville de commerce potentielle
-+   <string id="3">Cité de commerce potentielle
++   <string id="3">Cité commerciale potentielle
 
 @@ -780,16 +780,16 @@
 -   <string id="16">Petite maison
@@ -536,6 +536,10 @@
 -   <string id="14">industrie désœuvrée dans la cité
 +   <string id="13">industrie désœuvrée dans la cité
 +   <string id="14">industries désœuvrées dans la cité
+-   <string id="22">Prix d'achat
+-   <string id="23">Prix de vente
++   <string id="22">Acheteur paye
++   <string id="23">Vendeur reçoit
 
 @@ -1379,8 +1379,8 @@
 -   <string id="24">Il n'existe pas de route de commerce pour le transport de ces biens.
@@ -1224,6 +1228,8 @@
 +   <string id="101">Ajuster le montant exact de la donation
 -   <string id="108">Fixez la quantité produite de ce bien à partir de laquelle vous désirez commencer son exportation.
 +   <string id="108">Fixez la quantité produite de ce bien que vous souhaitez conserver avant d'exporter le surplus
+-   <string id="110">Ajuster le statut d'échange de cet article
++   <string id="110">Modifier le statut d'échange de cet article
 
 @@ -2717,8 +2717,8 @@
 -   <string id="130">Cliquez ici pour aller dans cette zone de troubles
