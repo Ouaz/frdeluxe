@@ -2124,8 +2124,8 @@
 +   <string id="2">Personne ne viendra s'installer ici car il n'y a pas de route à proximité. Si vous ne remédiez pas à ce problème, ce terrain retournera bientôt à son état naturel.
 -   <string id="2">Achats
 -   <string id="3">Ventes
-+   <string id="2">Achète
-+   <string id="3">Vend
+-   <string id="4">Acheté
+-   <string id="5">Vendu
 -   <string id="6">A jeté l'ancre en attente d'un dock libre.
 -   <string id="7">A quai, achète et revend des biens.
 -   <string id="8">Rentre au bercail.
@@ -2137,6 +2137,10 @@
 -   <string id="14">de
 -   <string id="15">En route vers
 -   <string id="16">De retour vers
++   <string id="2">Achète
++   <string id="3">Vend
++   <string id="4">A acheté
++   <string id="5">A vendu
 +   <string id="6">A jeté l'ancre, en attente d'un dock libre
 +   <string id="7">À quai, achète et vend des biens
 +   <string id="8">Retourne au pays

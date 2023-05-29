@@ -26,7 +26,7 @@ Cette nouvelle traduction est plus fidèle à la version anglaise, sans pour aut
 
 - Si vous utilisez les mods [Julius](https://github.com/bvschaik/julius) ou [Augustus](https://github.com/Keriew/augustus):
 
-1) Placez le dossier `frdeluxe` à la racine du dossier d'installation de Caesar III (par exemple `C:\Caesar III\frdeluxe`)
+1) Placez le dossier `frdeluxe` contenu dans l'archive zip, à la racine du dossier d'installation de Caesar III (par exemple `C:\Caesar III\frdeluxe`)
 2) Dans les options de Julius ou d'Augustus, sélectionnez comme langue le dossier `frdeluxe` et appliquez (Augustus) ou validez (Julius).
 
 - Si vous jouez sur la version d'origine (vanilla) de Caesar III, copiez les 4 fichiers contenus dans le dossier "frdeluxe" (c3.eng / c3_mm.eng / c3_map.eng / c3_map_mm.eng) à la racine du dossier d'installation de Caesar III. Il est conseillé au préalable de faire une copie des 4 fichiers .eng d'origine, si vous désirez éventuellement revenir à la traduction originale.
