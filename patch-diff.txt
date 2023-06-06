@@ -451,7 +451,7 @@
 +   <string id="74">Une armée moyenne attaquera dans
 +   <string id="75">Une armée imposante attaquera dans
 -   <string id="77">Le sénat refuse de vous verser un salaire car vous avez décliné la promotion de Rome.
-+   <string id="77">Le Sénat refuse désormais de vous verser un salaire, puisque vous avez décliné la promotion de Rome.
++   <string id="77">Le Sénat a suspendu votre droit à un salaire, puisque vous avez décliné la promotion offerte par Rome.
 -   <string id="4">Faveur
 +   <string id="4">Estime
 -   <string id="8">Cliquez sur un nombre pour plus d'informations.
