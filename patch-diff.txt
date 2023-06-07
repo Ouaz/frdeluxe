@@ -1,7 +1,7 @@
 --- Traduction vanilla de Caesar III
 +++ Traduction FrDeluxe de Caesar III
 
-1097 modifications.
+1103 modifications.
 
 @@ -6,7 +6,7 @@
 -   <string id="5">Quitter
@@ -363,7 +363,7 @@
 +   <string id="13">Des cités de l'Empire ont besoin de notre soutien militaire.
 +   <string id="14">Notre légion est en marche pour sauver une cité de l'Empire.
 +   <string id="15">Notre légion revient vers notre cité.
-+   <string id="16">Vous n'avez pas de légion sous vos ordres. Vous devez construire un fort pour en héberger une.
++   <string id="16">Vous n'avez pas de légions sous vos ordres. Vous devez construire un fort pour héberger une nouvelle légion.
 -   <string id="0">Estime de l'empereur
 -   <string id="1">Economies
 +   <string id="0">Estime de l'Empereur
@@ -770,6 +770,7 @@
 +   <string id="8">Éducation
 -   <string id="12">Le chômage touche
 +   <string id="12">Le chômage est de
+-   <string id="14">Pas de problèmes de chômage
 -   <string id="15">Augmentation cette année de
 -   <string id="16">Diminution cette année de
 -   <string id="17">Pas de changement en vue
@@ -778,6 +779,7 @@
 -   <string id="20">Le chômage freine l'immigration
 -   <string id="21">Il n'y a pas assez de nourriture
 -   <string id="22">Le taux d'imposition est trop élevé
++   <string id="14">Pas de problèmes d'emploi
 +   <string id="15">Bénéfice cette année de
 +   <string id="16">Déficit cette année de
 +   <string id="17">Pas d'évolution à noter
@@ -787,13 +789,20 @@
 +   <string id="21">Le manque de nourriture freine l'immigration
 +   <string id="22">Les taxes élevées freine l'immigration
 
-@@ -1636,7 +1636,7 @@
+@@ -1633,7 +1633,7 @@
+
+-   <string id="29">Pas de problème à signaler
++   <string id="29">Pas de problèmes à signaler
 -   <string id="32">Le crime est devenu endémique
 +   <string id="32">Le criminalité est devenue endémique
 
-@@ -1645,88 +1645,88 @@
+@@ -1642,88 +1642,88 @@
+-   <string id="38">Pas de problème à signaler
++   <string id="38">Pas de problèmes à signaler
 -   <string id="41">Des citoyens manquent d'éducation
+-   <string id="42">Pas de problème à signaler
 +   <string id="41">Des citoyens demandent plus d'éducation
++   <string id="42">Pas de problèmes à signaler
 -   <string id="48">Des accès à un troisième culte sont demandés
 +   <string id="48">L'accès à un troisième culte est demandé
 -   <string id="50">Toute la cité vous déteste.
@@ -834,7 +843,7 @@
 +   <string id="69">AUCUNE nourriture stockée le mois dernier !
 +   <string id="70">Les quartiers pauvres freinent l'immigration
 +   <string id="71">Une cité d'humeur morose freine l'immigration
-+   <string id="72">Vous n'avez pas de légion sous vos ordres
++   <string id="72">Vous n'avez pas de légions sous vos ordres
 +   <string id="73">Aucune menace signalée pour la cité
 -   <string id="77">Nos troupes sont attendues ailleurs
 +   <string id="77">Nos troupes sont requises ailleurs
@@ -989,10 +998,10 @@
 +   <string id="1">Ce terrain est relié aux canalisations d'un réservoir, permettant le bon fonctionnement des fontaines et des thermes
 +   <string id="2">Ce terrain est relié aux canalisations d'un réservoir, et dispose d'une source d'eau potable (puits ou fontaine)
 +   <string id="3">Ce terrain dispose d'une source d'eau potable
-+   <string id="4">Cette maison n'a pas de réserve de nourriture
-+   <string id="5">Cette maison aura bientôt épuisé sa réserve limitée de nourriture
++   <string id="4">Cette maison n'a pas de réserves de nourriture
++   <string id="5">Cette maison aura bientôt épuisé ses réserves limitées de nourriture
 +   <string id="6">Cette maison dispose de réserves de nourriture pour au moins le mois à venir
-+   <string id="7">Cette maison ne rencontre pas de problèmes pour obtenir la nourriture dont elle a besoin
++   <string id="7">Cette maison n'a pas de problèmes pour obtenir le minimum vital en nourriture
 +   <string id="8">Cette maison n'a pas accès à des thermes opérationnels
 +   <string id="9">Une employée des thermes est passé récemment près de cette maison. Elle aura donc accès aux thermes pour longtemps.
 +   <string id="10">Cette maison a accès aux thermes
@@ -2020,7 +2029,7 @@
 +   <string id="43">Cette maison va bientôt régresser, car il n'y a aucun moyen de se divertir dans ce secteur.
 +   <string id="44">Cette maison va bientôt régresser, car il n'y a quasiment aucun moyen de se divertir dans ce secteur.
 +   <string id="45">Cette maison va bientôt régresser, car il y a trop peu de moyens de se divertir dans ce secteur.
-+   <string id="46">Cette maison va bientôt régresser. Il y a moyen de se divertir dans ce secteur, mais pas suffisamment.
++   <string id="46">Cette maison va bientôt régresser. Il y a moyen de se divertir dans ce secteur, mais pas assez.
 +   <string id="47">Cette maison va bientôt régresser. Il y a de bons moyens de se divertir dans ce secteur, mais pas assez variés.
 +   <string id="48">Cette maison va bientôt régresser. Il y a de nombreux moyens de se divertir dans ce secteur, mais ils sont bondés, ou pas assez variés au goût des patriciens avertis.
 +   <string id="49">Cette maison va bientôt régresser, car elle n'a pas été approvisionnée en nourriture par un marché local récemment.
@@ -2049,7 +2058,7 @@
 -   <string id="68">Cette maison va bientôt régresser, car elle n'a plus de meubles et que son marché local n'en distribue que rarement.
 -   <string id="69">Cette maison va bientôt régresser, car elle n'a plus de vin et que son marché local n'en distribue que rarement.
 -   <string id="70">Vous devez augmenter l'attrait de ce secteur, en y construisant des jardins ou des plazas par exemple.
-+   <string id="64">Cette maison va bientôt régresser, car son niveau d'hygiène est désormais médiocre. Elle n'a pas de dispensaire à proximité, et son accès à l'hôpital est également loin d'être parfait.
++   <string id="64">Cette maison va bientôt régresser, car son niveau d'hygiène est désormais médiocre. Elle n'a aucun dispensaire à proximité, et son accès à l'hôpital est également loin d'être parfait.
 +   <string id="65">Cette maison va bientôt régresser, car son niveau d'hygiène s'est réduit. Il existe bien un dispensaire à proximité, mais elle n'a pas accès à un hôpital proche.
 +   <string id="66">Cette maison va bientôt régresser, car son niveau d'hygiène s'est réduit. Elle a bien accès à un hôpital proche, mais les dispensaires sont difficiles à trouver.
 +   <string id="67">Cette maison va bientôt régresser, car elle n'a plus d'huile, et son marché local l'approvisionne au mieux de manière erratique.
@@ -2074,7 +2083,7 @@
 +   <string id="73">Cette maison ne peut pas évoluer, car il n'y a aucun moyen de se divertir dans ce secteur.
 +   <string id="74">Cette maison ne peut pas évoluer, car il n'y a quasiment aucun moyen de se divertir dans ce secteur.
 +   <string id="75">Cette maison ne peut pas évoluer, car il y a trop peu de moyens de se divertir dans ce secteur.
-+   <string id="76">Cette maison ne peut pas évoluer, car il y a moyen de se divertir dans ce secteur, mais pas suffisamment.
++   <string id="76">Cette maison ne peut pas évoluer, car il y a moyen de se divertir dans ce secteur, mais pas assez.
 +   <string id="77">Cette maison ne peut pas évoluer, car il y a de bons moyens de se divertir dans ce secteur, mais pas assez variés.
 +   <string id="78">Cette maison ne peut pas évoluer, car il y a de nombreux moyens de se divertir dans ce secteur, mais ils sont bondés, ou pas assez variés au goût des patriciens avertis.
 +   <string id="79">Cette maison ne peut pas évoluer, car elle a besoin d'être approvisionnée en nourriture par un marché local.
