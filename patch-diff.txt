@@ -1,7 +1,7 @@
 --- Traduction vanilla de Caesar III
 +++ Traduction FrDeluxe de Caesar III
 
-1103 modifications.
+1112 modifications.
 
 @@ -6,7 +6,7 @@
 -   <string id="5">Quitter
@@ -26,6 +26,8 @@
 +   <string id="4">Évaluation
 -   <string id="8">Education
 +   <string id="8">Éducation
+-   <string id="12">Conseiller
++   <string id="12">Conseiller en chef
 
 @@ -51,15 +51,15 @@
 -   <string id="7">Vous ne possédez pas la quantité nécessaire dans vos entrepôts.
@@ -38,6 +40,12 @@
 +   <string id="15">Êtes-vous sûr de vouloir supprimer ce fort ?
 -   <string id="17">Veuillez mettre le CD de Caesar III dans votre lecteur de CD-ROM
 +   <string id="17">Veuillez insérer le CD de Caesar III dans votre lecteur de CD-ROM
+
+@@ -70,7 +70,7 @@
+-   <string id="2">Mois jusqu'à la défaite
+-   <string id="3">Mois jusqu'à la victoire
++   <string id="2">Mois avant défaite
++   <string id="3">Mois avant victoire
 
 @@ -87,7 +87,7 @@
 -   <string id="5">Mois
@@ -646,8 +654,16 @@
 +   <string id="35">L'hygiène de la cité est excellente
 +   <string id="36">L'hygiène de la cité est presque parfaite
 +   <string id="37">L'hygiène de la cité est parfaite
+-   <string id="2">écoliers,
+-   <string id="3">universitaires.
 -   <string id="4">en service
+-   <string id="5">Peut éduquer
++   <string id="2">d'âge scolaire,
++   <string id="3">en âge d'étudier.
 +   <string id="4">En service
++   <string id="5">Peut instruire
+-   <string id="8">jeunes
++   <string id="8">jeunes gens
 -   <string id="10">Aucun
 -   <string id="11">Eparse
 +   <string id="10">Aucune
@@ -765,7 +781,9 @@
 +   <string id="19">Fonds
 +   <string id="20">Donations
 
-@@ -1612,21 +1612,21 @@
+@@ -1604,21 +1604,21 @@
+-   <string id="0">Conseiller
++   <string id="0">Conseiller en chef
 -   <string id="8">Education
 +   <string id="8">Éducation
 -   <string id="12">Le chômage touche
@@ -1219,6 +1237,8 @@
 @@ -2658,7 +2658,7 @@
 -   <string id="71">Consulter le rapport sur les armées
 +   <string id="71">Consulter le rapport sur la légion
+-   <string id="81">Consulter le rapport de votre conseiller personnel
++   <string id="81">Consulter le rapport de votre conseiller en chef
 -   <string id="130">Cliquez ici pour aller vers cette zone de troubles
 +   <string id="130">Cliquez ici pour aller sur le lieu du problème
 
