@@ -1,7 +1,7 @@
 --- Traduction vanilla de Caesar III
 +++ Traduction FrDeluxe de Caesar III
 
-1112 modifications.
+1118 modifications.
 
 @@ -6,7 +6,7 @@
 -   <string id="5">Quitter
@@ -571,13 +571,17 @@
 -   <string id="13">de la nourriture pour le mois à venir.
 -   <string id="14">aucune nourriture pour le mois à venir.
 -   <string id="15">très peu de nourriture pour le mois à venir.
+-   <string id="16">Variétés de nourriture :
+-   <string id="17">nouveaux venus ce mois-ci.
+-   <string id="18">nouveau venu ce mois-ci.
 +   <string id="13">de la nourriture pour le mois à venir
 +   <string id="14">aucune nourriture pour le mois à venir
 +   <string id="15">très peu de nourriture pour le mois à venir
--   <string id="17">nouveaux venus ce mois-ci.
--   <string id="18">nouveau venu ce mois-ci.
++   <string id="16">Variétés de nourriture consommée :
 +   <string id="17">nouveaux venus ce mois-ci
 +   <string id="18">nouveau venu ce mois-ci
+-   <string id="20">Les faibles revenus réduisent l'immigration dans votre cité.
++   <string id="20">Les faibles salaires réduisent l'immigration dans votre cité.
 -   <string id="22">La pénurie de nourriture en réserve réduit l'immigration.
 +   <string id="22">Le manque de vivres en réserve réduit l'immigration.
 -   <string id="26">Le manque d'emplois fait partir votre population.
@@ -772,6 +776,12 @@
 +   <string id="5">de la population est inscrite au registre fiscal
 -   <string id="7">Depuis le début de l'année
 +   <string id="7">Pour l'année en cours
+-   <string id="8">Revenus (taxes)
+-   <string id="9">Revenus (commerce)
+-   <string id="10">Revenus (total)
++   <string id="8">Taxes collectées
++   <string id="9">Commerce (ventes)
++   <string id="10">Recettes
 -   <string id="12">Salaire
 +   <string id="12">Salaires
 -   <string id="18">Bénéfices / Pertes
@@ -1239,6 +1249,8 @@
 +   <string id="71">Consulter le rapport sur la légion
 -   <string id="81">Consulter le rapport de votre conseiller personnel
 +   <string id="81">Consulter le rapport de votre conseiller en chef
+-   <string id="91">Fixer un niveau de revenus (votre peuple comparera cette valeur à celle de Rome)
++   <string id="91">Fixer le niveau salarial (votre peuple comparera cette valeur à celle de Rome)
 -   <string id="130">Cliquez ici pour aller vers cette zone de troubles
 +   <string id="130">Cliquez ici pour aller sur le lieu du problème
 
