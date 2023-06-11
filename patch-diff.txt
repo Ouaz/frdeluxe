@@ -712,8 +712,8 @@
 +   <string id="8">Actuellement, les citoyens ayant besoin de se changer les idées sont comblés. Mais avec le développement de la cité, il vous faudra rapidement fournir des formes de divertissement plus variées et plus nombreuses !
 +   <string id="9">Des citoyens se plaignent d'un accès insuffisant aux lieux de loisirs. Certains secteurs de la cité ont besoin de structures de divertissement plus variées afin de pouvoir se développer.
 +   <string id="10">Des secteurs de la cité se plaignent de ne pas avoir accès aux lieux de loisirs. La construction de nouvelles structures de divertissement pourrait aider au développement de ces quartiers.
-+   <string id="11">Des citoyens se plaignent d'une offre de divertissement inadaptée à leurs besoins. Peut-être devriez-vous leur offrir plus de diversité, ou construire davantage d'écoles de théâtre pour fournir plus d'acteurs aux théâtres en ayant besoin.
-+   <string id="12">Certains amphithéâtres manquent d'acteurs ou de gladiateurs, et ne tournent donc pas à pleine capacité. Davantage d'artistes aideraient au développement des quartiers se plaignant d'une offre limitée en divertissement.
++   <string id="11">Des citoyens se plaignent d'une offre de divertissement inadaptée à leurs besoins. Peut-être devriez-vous la diversifier, ou construire plus d'écoles de théâtre afin de mieux pourvoir en acteurs certains théâtres.
++   <string id="12">Certains amphithéâtres manquent d'acteurs ou de gladiateurs, et ne tournent donc pas à pleine capacité. Plus d'artistes aideraient au développement des quartiers se plaignant d'une offre limitée en divertissement.
 +   <string id="13">Vos colisées ont besoin de spectacles plus variés ! Leur fournir des gladiateurs ou des lions pourrait améliorer le niveau de divertissement de certains secteurs de la cité.
 +   <string id="14">Votre hippodrome est bien joli, mais il ne dispose d'aucun char ! En fabriquer comblerait la population de la cité, car de nombreux citoyens sont avides de ce type de divertissement.
 -   <string id="18">Vos citoyens, certains encore sous l'effet de la récente beuverie, saluent votre générosité.
@@ -1322,7 +1322,7 @@
 -   <string id="27">Personnel insuffisant. Impossible de distribuer ou de stocker des biens.
 +   <string id="21">Fonctionne à peine. Allouez plus de main-d'œuvre à ce secteur.
 +   <string id="22">Fonctionne mal. Allouez plus de main-d'œuvre à ce secteur.
-+   <string id="23">Fonctionne bien, mais davantage de main-d'œuvre pourrait être allouée à ce secteur
++   <string id="23">Fonctionne bien, mais plus de main-d'œuvre pourrait être allouée à ce secteur
 +   <string id="24">Fonctionne à capacité réduite. Quasiment aucun employé ne s'est présenté récemment.
 +   <string id="25">ATTENTION. Ce bâtiment n'est pas opérationnel. Il n'est adjacent à aucune route et les employés n'y ont donc pas accès.
 +   <string id="26">En sous-effectif. Est seulement en mesure de livrer les biens, mais pas de les recevoir.
@@ -1748,7 +1748,7 @@
 +   <string id="4">La production de blé est suspendue sur ordre de votre conseiller commercial.
 +   <string id="5">Cette ferme n'a pas de main-d'œuvre. Ses champs sont en friche.
 +   <string id="6">Cette ferme dispose de toute la main-d'œuvre nécessaire. Sa productivité est au maximum pour sa superficie.
-+   <string id="7">Cette ferme n'opère pas à sa capacité maximale. Davantage de main-d'œuvre la rendrait plus productive.
++   <string id="7">Cette ferme n'opère pas à sa capacité maximale. Plus de main-d'œuvre la rendrait plus productive.
 +   <string id="8">Cette ferme est en sous-effectif. Les employés mettent beaucoup de temps pour produire le blé.
 +   <string id="9">Très peu de paysans travaillent ici. La production de blé est par conséquent très lente.
 +   <string id="10">Avec quasiment aucun employé dans cette ferme, la production est presque à l'arrêt.
@@ -1814,7 +1814,7 @@
 +   <string id="4">La culture d'olives est suspendue sur ordre de votre conseiller commercial.
 +   <string id="5">Cette oliveraie n'a pas de main-d'œuvre. La production est à l'arrêt.
 +   <string id="6">Cette oliveraie dispose de toute la main-d'œuvre nécessaire. Les branches des arbres ploient régulièrement sous le poids des olives.
-+   <string id="7">Cette oliveraie n'opère pas à sa capacité maximale. La production d'olives serait meilleure avec davantage d'employés.
++   <string id="7">Cette oliveraie n'opère pas à sa capacité maximale. La production d'olives serait meilleure avec plus d'employés.
 +   <string id="8">Cette oliveraie est en sous-effectif, et met plus de temps pour produire des olives qu'elle ne le devrait.
 +   <string id="9">Très peu d'employés travaillent ici. La production d'olives est par conséquent très lente.
 +   <string id="10">Avec quasiment aucun employé dans cette oliveraie, la plupart des arbres n'ont aucune olive sur leurs branches.
@@ -1895,7 +1895,7 @@
 +   <string id="4">L'extraction de fer est suspendue sur ordre de votre conseiller commercial.
 +   <string id="5">Cette mine n'a pas de main-d'œuvre. La production est à l'arrêt.
 +   <string id="6">Cette mine dispose de toute la main-d'œuvre nécessaire, et tourne à plein régime pour extraire du fer.
-+   <string id="7">Cette mine n'opère pas à sa capacité maximale. L'extraction de fer pourrait être légèrement plus efficace avec davantage de mineurs.
++   <string id="7">Cette mine n'opère pas à sa capacité maximale. L'extraction de fer pourrait être légèrement plus efficace avec plus de mineurs.
 +   <string id="8">Cette mine est en sous-effectif, et met plus de temps pour produire du fer qu'elle ne le devrait.
 +   <string id="9">Très peu d'employés travaillent dans cette mine. La production de fer est par conséquent très lente.
 +   <string id="10">Avec quasiment aucun mineur ici, l'extraction est presque à l'arrêt. Très peu de fer sera extrait pour l'année à venir.
