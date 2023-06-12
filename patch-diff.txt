@@ -1,7 +1,7 @@
 --- Traduction vanilla de Caesar III
 +++ Traduction FrDeluxe de Caesar III
 
-1118 modifications.
+1120 modifications.
 
 @@ -6,7 +6,7 @@
 -   <string id="5">Quitter
@@ -342,6 +342,10 @@
 +   <string id="3">Ingénierie
 -   <string id="8">Hygiène et éducation
 +   <string id="8">Hygiène et Education
+-   <string id="22">Secteur
++   <string id="22">Secteur d'activité
+-   <string id="24">En activité
++   <string id="24">Actifs
 
 @@ -1181,14 +1181,14 @@
 -   <string id="19">Coût annuel de la force de travail
@@ -780,7 +784,7 @@
 -   <string id="9">Revenus (commerce)
 -   <string id="10">Revenus (total)
 +   <string id="8">Taxes collectées
-+   <string id="9">Commerce (ventes)
++   <string id="9">Ventes (commmerce)
 +   <string id="10">Recettes
 -   <string id="12">Salaire
 +   <string id="12">Salaires
@@ -850,11 +854,11 @@
 +   <string id="52">La population est furieuse contre vous
 +   <string id="53">La population est très en colère contre vous
 +   <string id="54">La population est en colère contre vous
-+   <string id="55">La population est mitigée envers vous
-+   <string id="56">La population est indifférente envers vous
-+   <string id="57">La population est contente de vous
-+   <string id="58">La population est très contente de vous
-+   <string id="59">La population est fort contente de vous
++   <string id="55">La population est mitigée à votre égard
++   <string id="56">La population est neutre à votre égard
++   <string id="57">La population vous apprécie
++   <string id="58">La population vous apprécie beaucoup
++   <string id="59">La population vous apprécie énormément
 +   <string id="60">La population vous adore
 +   <string id="61">Vous êtes un dieu aux yeux de la population
 -   <string id="65">Juste assez de nourriture produite pour la cité
@@ -1311,8 +1315,8 @@
 +   <string id="15">Risque extrême d'incendie
 +   <string id="16">Aucun habitant dans la cité !
 +   <string id="17">Pas de main-d'œuvre habitant à proximité
-+   <string id="18">Pas de main-d'œuvre allouée à ce secteur
-+   <string id="19">Trop peu de main-d'œuvre allouée à ce secteur
++   <string id="18">Pas de main-d'œuvre allouée à cette activité
++   <string id="19">Trop peu de main-d'œuvre allouée à cette activité
 -   <string id="21">Fonctionne à peine. Allouez plus de main d'oeuvre à ce secteur
 -   <string id="22">Fonctionne mal. Allouez plus de main d'oeuvre à ce secteur
 -   <string id="23">Fonctionne bien, mais plus de main d'oeuvre pourrait être allouée à ce secteur
@@ -1320,9 +1324,9 @@
 -   <string id="25">ATTENTION. Ce bâtiment n'est pas fonctionnel. Aucune route ne passe à proximité et les employés ne peuvent donc pas y accéder.
 -   <string id="26">Manque de personnel. Seule la distribution de biens peut être effectuée, pas le stockage.
 -   <string id="27">Personnel insuffisant. Impossible de distribuer ou de stocker des biens.
-+   <string id="21">Fonctionne à peine. Allouez plus de main-d'œuvre à ce secteur.
-+   <string id="22">Fonctionne mal. Allouez plus de main-d'œuvre à ce secteur.
-+   <string id="23">Fonctionne bien, mais plus de main-d'œuvre pourrait être allouée à ce secteur
++   <string id="21">Fonctionne à peine. Allouez plus de main-d'œuvre à cette activité.
++   <string id="22">Fonctionne mal. Allouez plus de main-d'œuvre à cette activité.
++   <string id="23">Fonctionne bien, mais plus de main-d'œuvre pourrait être allouée à cette activité.
 +   <string id="24">Fonctionne à capacité réduite. Quasiment aucun employé ne s'est présenté récemment.
 +   <string id="25">ATTENTION. Ce bâtiment n'est pas opérationnel. Il n'est adjacent à aucune route et les employés n'y ont donc pas accès.
 +   <string id="26">En sous-effectif. Est seulement en mesure de livrer les biens, mais pas de les recevoir.
