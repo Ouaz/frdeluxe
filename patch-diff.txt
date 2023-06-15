@@ -1958,7 +1958,7 @@
 +   <string id="8">Ce chai est en sous-effectif, et met beaucoup plus de temps pour produire du vin qu'il ne le devrait.
 +   <string id="9">Très peu d'employés travaillent dans ce chai. La production de vin est par conséquent fortement ralentie.
 +   <string id="10">Avec quasiment aucun vinificateur dans cette fabrique, la production est presque à l'arrêt. Très peu de vin sera produit pour l'année à venir.
-+   <string id="11">Cette fabrique ne peut pas produire de vin tant qu'elle ne reçoit pas une livraison de raisin d'un entrepôt ou d'une ferme viticole.
++   <string id="11">Cette fabrique ne peut pas produire de vin sans livraison de raisin d'un entrepôt ou d'une ferme viticole.
 -   <string id="0">Presse
 -   <string id="1">Les olives sont pressées ici, et l'huile résultante est utilisée pour la cuisine et l'éclairage des plébéiens habitants dans une insula. Les surplus d'huile peuvent être facilement revendus.
 -   <string id="2">La construction est à
@@ -1980,7 +1980,7 @@
 +   <string id="8">Cette huilerie est en sous-effectif. La production d'huile est plus lente qu'elle ne devrait.
 +   <string id="9">Très peu d'employés travaillent dans cette huilerie. La production d'huile est par conséquent très lente.
 +   <string id="10">Avec quasiment aucun employé dans cette huilerie, la production est réduite à un mince filet. Très peu d'huile sera produite pour l'année à venir.
-+   <string id="11">Cette fabrique ne produira aucune huile sans une livraison d'olives d'un entrepôt ou d'une ferme oléicole.
++   <string id="11">Cette fabrique ne produira aucune huile sans livraison d'olives d'un entrepôt ou d'une ferme oléicole.
 -   <string id="0">Fabrique d'armes
 -   <string id="1">L'armurier utilise le fer pour forger des armes et des armures, que vous pouvez revendre à bon prix ou utiliser pour équiper vos armées.
 -   <string id="2">La construction est à
@@ -2002,7 +2002,7 @@
 +   <string id="8">Cet atelier est en sous-effectif, et met plus de temps pour produire des armes qu'il ne le devrait.
 +   <string id="9">Très peu d'employés travaillent dans cet atelier. La production d'armes est par conséquent fortement ralentie.
 +   <string id="10">Avec quasiment aucun employé dans cet atelier, la production est presque à l'arrêt. Très peu d'armes seront fabriquées pour l'année à venir.
-+   <string id="11">Cet atelier a besoin qu'on lui livre du fer, en provenance d'un entrepôt ou d'une mine, afin de produire des armes.
++   <string id="11">Cet atelier a besoin d'être livré en fer depuis un entrepôt ou une mine, afin de produire des armes.
 -   <string id="0">Fabrique de meubles
 -   <string id="1">Les charpentiers de cette fabrique transforment le bois en meubles raffinés. Certains citoyens désirent décorer leurs maisons avec ces meubles, et les surplus pourront être exportés.
 -   <string id="2">La construction est à
@@ -2024,10 +2024,10 @@
 +   <string id="8">Cet atelier est en sous-effectif, et met plus de temps pour produire des meubles qu'il ne le devrait.
 +   <string id="9">Très peu de menuisiers travaillent ici. La production de meubles est par conséquent fortement ralentie.
 +   <string id="10">Avec quasiment aucun artisan dans cet atelier, la production est presque à l'arrêt. Très peu de meubles seront fabriqués pour l'année à venir.
-+   <string id="11">Cet atelier a besoin d'une livraison de bois, en provenance d'un entrepôt ou d'un chantier, afin de produire des meubles.
++   <string id="11">Cet atelier a besoin d'être livré en bois depuis un entrepôt ou un chantier, afin de produire des meubles.
 -   <string id="1">Dans cet atelier, des potiers travaillent l'argile pour faire des pots dans lesquels vos citoyens conserveront leurs denrées. Exportez-les ou laissez vos marchés les distribuer pour le plus grand plaisir de votre peuple.
 -   <string id="2">La construction est à
-+   <string id="1">Des potiers façonnent ici l'argile en pots que les citoyens utilisent pour conserver leurs denrées. Exportez-les ou laissez vos marchés les distribuer pour que la population puisse améliorer son quotidien et son habitat.
++   <string id="1">Des potiers façonnent ici l'argile en pots utilisés pour conserver les denrées. Exportez la poterie ou distribuez-la dans votre cité pour que les citoyens puissent améliorer leur habitat.
 +   <string id="2">La production est à
 -   <string id="4">La production de poteries a été arrêtée sur ordre de votre conseiller commercial.
 -   <string id="5">Cette fabrique n'emploie personne. La production a cessé.
@@ -2042,9 +2042,9 @@
 +   <string id="6">Cet atelier dispose de toute la main-d'œuvre nécessaire, et tourne à plein régime pour produire des poteries.
 +   <string id="7">Cet atelier n'opère pas à sa capacité maximale. La production de poteries sera par conséquent légèrement plus lente.
 +   <string id="8">Cet atelier est en sous-effectif, et met plus de temps pour produire des poteries qu'il ne le devrait.
-+   <string id="9">Très peu d'employés travaillent ici. La production de poterie est par conséquent très lente.
++   <string id="9">Très peu d'employés travaillent ici. La production de poteries est par conséquent très lente.
 +   <string id="10">Avec quasiment aucun employé dans cet atelier, la production est presque à l'arrêt. Très peu de poteries seront produites pour l'année à venir.
-+   <string id="11">Cet atelier a besoin qu'on lui livre de l'argile, en provenance d'un entrepôt ou d'un puits, afin de produire des poteries.
++   <string id="11">Cet atelier a besoin d'être livré en argile depuis un entrepôt ou un puits, afin de produire des poteries.
 
 @@ -3371,7 +3371,7 @@
 -   <string id="22">Espace disponible pour
