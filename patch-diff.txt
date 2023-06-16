@@ -1,7 +1,7 @@
 --- Traduction vanilla de Caesar III
 +++ Traduction FrDeluxe de Caesar III
 
-1120 modifications.
+1118 modifications.
 
 @@ -6,7 +6,7 @@
 -   <string id="5">Quitter
@@ -50,12 +50,6 @@
 @@ -87,7 +87,7 @@
 -   <string id="5">Mois
 +   <string id="5">mois
-
-@@ -98,8 +98,8 @@
--   <string id="16">unité.
--   <string id="17">unités.
-+   <string id="16">unité
-+   <string id="17">unités
 
 @@ -142,7 +142,7 @@
 -   <string id="8">Editeur de missions de Caesar III
