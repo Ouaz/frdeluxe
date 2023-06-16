@@ -1386,7 +1386,7 @@
 -   <string id="10">Représentations théâtrales pendant
 +   <string id="4">Cet amphithéâtre héberge des combats de gladiateurs pour la plus grande joie de vos citoyens. Mais il recherche des acteurs pour sa programmation théâtrale.
 +   <string id="5">Cet amphithéâtre propose de nombreuses pièces de compagnies locales, mais il satisferait encore plus son public en proposant des combats de gladiateurs.
-+   <string id="6">Cet amphithéâtre ne fonctionne pas. Sans employés, il ne propose aucune distraction aux habitants.
++   <string id="6">Cet amphithéâtre est bien morne. Sans employés, il ne propose aucune distraction aux habitants.
 +   <string id="7">Aucun combat de gladiateurs actuellement
 +   <string id="8">Combats de gladiateurs prévus pour
 +   <string id="9">Aucune pièce de théâtre actuellement
