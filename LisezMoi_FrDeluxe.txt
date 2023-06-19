@@ -45,7 +45,7 @@ Les traducteurs d'origine ont dû penser qu'il s'agissait d'une structure de loi
 - "Fabrique de chars" -> "Manufacture de chars" ("Chariot Builders").
 Afin de distinguer ce bâtiment spécifique des ateliers/fabriques. Dans la version anglaise, ce bâtiment avait été pensé au début comme une "Charioteer School", d'où sa présence dans l'onglet divertissement et le fait qu'aucune matière première ne soit nécessaire pour fabriquer des chars.
 
-- L'onglet "Atelier" (Workshops) dans le panneau latéral est renommé "Artisanat", car il comprend à la fois des ateliers et des fabriques en français.
+- L'onglet "Atelier" (Workshops) dans le panneau latéral est renommé "Artisans", pour englober les ateliers et fabriques en français.
 
 - "Petite maison, Grande maison" > "Petite casa, Grande casa" ("Small Casa, Large Casa"), "Casa" signifiant génériquement "demeure" en latin.
 On retrouve donc bien la progression Casa < Insula < Villa. Le terme "Maison" est utilisé génériquement dans la version française pour désigner n'importe quelle résidence.

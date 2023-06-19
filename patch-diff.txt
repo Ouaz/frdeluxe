@@ -179,7 +179,7 @@
 -   <string id="2">Ferme
 +   <string id="2">Fermes
 -   <string id="4">Atelier
-+   <string id="4">Artisanat
++   <string id="4">Artisans
 
 @@ -502,21 +502,21 @@
 -   <string id="35">Parc à lions
