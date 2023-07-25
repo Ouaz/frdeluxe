@@ -661,7 +661,7 @@
 -   <string id="4">en service
 -   <string id="5">Peut éduquer
 +   <string id="2">d'âge scolaire,
-+   <string id="3">en âge d'étudier.
++   <string id="3">d'âge universitaire.
 +   <string id="4">En service
 +   <string id="5">Peut instruire
 -   <string id="8">jeunes
