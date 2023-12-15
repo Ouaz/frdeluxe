@@ -1,7 +1,7 @@
 --- Traduction vanilla de Caesar III
 +++ Traduction FrDeluxe de Caesar III
 
-1118 modifications.
+1116 modifications.
 
 @@ -6,7 +6,7 @@
 -   <string id="5">Quitter
@@ -538,10 +538,6 @@
 +   <string id="9">industries actives dans la cité
 +   <string id="10">industrie suspendue dans la cité
 +   <string id="11">industries suspendues dans la cité
--   <string id="13">industries désœuvrées dans la cité
--   <string id="14">industrie désœuvrée dans la cité
-+   <string id="13">industrie désœuvrée dans la cité
-+   <string id="14">industries désœuvrées dans la cité
 -   <string id="22">Prix d'achat
 -   <string id="23">Prix de vente
 +   <string id="22">Acheteur paye

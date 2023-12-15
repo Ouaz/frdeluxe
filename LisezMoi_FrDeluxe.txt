@@ -33,9 +33,9 @@ Installation
 - Si vous jouez sur la version d'origine (vanilla) de Caesar III, copiez les 4 fichiers contenus dans le dossier "frdeluxe" (c3.eng / c3_mm.eng / c3_map.eng / c3_map_mm.eng ) à la racine du dossier d'installation de Caesar III. Il est conseillé au préalable de faire une copie des 4 fichiers .eng d'origine, si vous désirez éventuellement revenir à la traduction originale.
 
 
-#######################
-Principaux changements:
-#######################
+#####################
+Quelques changements:
+#####################
 
 - La carte "Nourriture" est renommée "Stock Vivres" ("Food Stocks")
 
@@ -71,7 +71,7 @@ Mauvaise traduction à l'origine, puisque il s'agit de l'employée du marché ch
 
 - L'Aide du jeu a été également entièrement retravaillée: correspondance des termes utilisés avec ceux du jeu, traduction plus précise des différents articles, correction des incohérences et inexactitudes.
 
-Vous pouvez consulter en détail toutes les modifications apportées en consultant le fichier patch-diff.txt, listant les 1097 entrées modifiées pour le jeu principal, mais pas celles de l'Aide (trop nombreuses!), ni celles de l'Éditeur de cartes et de son Aide.
+Vous pouvez consulter en détail toutes les modifications apportées en consultant le fichier patch-diff.txt, listant les 1116 entrées modifiées pour le jeu principal, mais pas celles de l'Aide (trop nombreuses!), ni celles de l'Éditeur de cartes et de son Aide.
 
 Notes: 
 - Le fichier c3.eng contient toutes les entrées du jeu principal.
