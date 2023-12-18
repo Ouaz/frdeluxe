@@ -1,7 +1,7 @@
 --- Traduction vanilla de Caesar III
 +++ Traduction FrDeluxe de Caesar III
 
-1116 modifications.
+1117 modifications.
 
 @@ -6,7 +6,7 @@
 -   <string id="5">Quitter
@@ -635,11 +635,11 @@
 +   <string id="18">L'hygiène de la cité est déplorable. Les médecins sont débordés et craignent une terrible épidémie.
 +   <string id="19">L'hygiène de la cité est très insuffisante. Plus de nourriture et de dispensaires amélioreraient la situation.
 +   <string id="20">L'hygiène de la cité est insuffisante. Les citoyens ont-ils assez de nourriture et accès aux dispensaires ?
-+   <string id="21">L'hygiène de la cité est moyenne, mais les médecins combattent tant bien que mal les maladies.
++   <string id="21">L'hygiène de la cité est moyenne. Les médecins combattent tant bien que mal les maladies.
 +   <string id="22">L'hygiène de la cité est bonne. Les citoyens ne souffrent que de maux mineurs.
-+   <string id="23">L'hygiène de la cité est très bonne. Les médecins guérissent sans aucun problème les quelques citoyens indisposés.
++   <string id="23">L'hygiène de la cité est très bonne. Les médecins soignent efficacement les citoyens.
 +   <string id="24">L'hygiène de la cité est excellente, et les salles d'attente des dispensaires sont presque vides.
-+   <string id="25">L'hygiène de la cité est presque parfaite, à tel point que les médecins n'ont quasiment aucune consultation.
++   <string id="25">L'hygiène de la cité est presque parfaite, si bien que les médecins n'ont quasiment aucune consultation.
 +   <string id="26">L'hygiène de la cité est parfaite. Vos dispensaires vides sont un exemple éclatant pour tout l'Empire.
 +   <string id="27">L'hygiène de la cité est épouvantable
 +   <string id="28">L'hygiène de la cité est pitoyable
@@ -668,8 +668,10 @@
 +   <string id="11">Disparate
 -   <string id="15">Moyen
 -   <string id="16">Moyen
+-   <string id="17">Assez bonne
 +   <string id="15">Moyenne
 +   <string id="16">Moyenne
++   <string id="17">Acceptable
 -   <string id="22">Certains secteurs de la cité ont besoin d'avoir accès à une école ou à une université. Le manque d'éducation empêche l'évolution des logements de ces quartiers.
 -   <string id="23">Certains secteurs de la cité ont besoin d'un meilleur accès à une école ou une université. Certains foyers disposent d'un meilleur accès à ces services que d'autres, lesquels ne peuvent se développer.
 -   <string id="24">Une bibliothèque est requise dans certains secteurs de la cité. Vos citoyens ont le temps de lire. Ils ont maintenant besoin de pouvoir accéder à la littérature.
