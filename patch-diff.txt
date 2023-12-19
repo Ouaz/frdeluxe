@@ -1307,8 +1307,8 @@
 +   <string id="15">Risque extrême d'incendie
 +   <string id="16">Aucun habitant dans la cité !
 +   <string id="17">Pas de main-d'œuvre habitant à proximité
-+   <string id="18">Pas de main-d'œuvre allouée à cette activité
-+   <string id="19">Trop peu de main-d'œuvre allouée à cette activité
++   <string id="18">Pas d'actifs alloués à cette activité
++   <string id="19">Trop peu d'actifs alloués à cette activité
 -   <string id="21">Fonctionne à peine. Allouez plus de main d'oeuvre à ce secteur
 -   <string id="22">Fonctionne mal. Allouez plus de main d'oeuvre à ce secteur
 -   <string id="23">Fonctionne bien, mais plus de main d'oeuvre pourrait être allouée à ce secteur
