@@ -1110,7 +1110,7 @@
 +   <string id="43">Cette maison n'est pas inscrite au registre fiscal, et ne paye donc pas les taxes dues
 +   <string id="44">Aucune taxe collectée dans cette maison depuis le début de l'année.
 +   <string id="45"> denarii collectés à ce jour.
-+   <string id="46">Ce bâtiment n'a aucune chance de prendre feu
++   <string id="46">Ce bâtiment ne présente aucun risque d'incendie
 +   <string id="47">Ce bâtiment présente un risque infime d'incendie
 +   <string id="48">Ce bâtiment risque peut-être de prendre feu
 +   <string id="49">Ce bâtiment risque de prendre feu
