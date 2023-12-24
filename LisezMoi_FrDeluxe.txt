@@ -71,7 +71,7 @@ Mauvaise traduction à l'origine, puisque il s'agit de l'employée du marché ch
 
 - L'Aide du jeu a été également entièrement retravaillée: correspondance des termes utilisés avec ceux du jeu, traduction plus précise des différents articles, correction des incohérences et inexactitudes.
 
-Vous pouvez consulter en détail toutes les modifications apportées en consultant le fichier patch-diff.txt, listant les 1117 entrées modifiées pour le jeu principal, mais pas celles de l'Aide (trop nombreuses!), ni celles de l'Éditeur de cartes et de son Aide.
+Vous pouvez consulter en détail toutes les modifications apportées en consultant le fichier patch-diff.txt, listant les 1119 entrées modifiées pour le jeu principal, mais pas celles de l'Aide (trop nombreuses!), ni celles de l'Éditeur de cartes et de son Aide.
 
 Notes: 
 - Le fichier c3.eng contient toutes les entrées du jeu principal.

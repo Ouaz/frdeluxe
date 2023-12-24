@@ -35,7 +35,7 @@ Cette nouvelle traduction est plus fidèle à la version anglaise, sans pour aut
 
 Consultez quelques [exemples de changements](https://github.com/Ouaz/frdeluxe/blob/master/LisezMoi_FrDeluxe.txt#L37) dans le fichier LisezMoi_FrDeluxe.txt.
 
-Pour afficher toutes les modifications apportées, consultez le fichier [`patch-diff.txt`](https://github.com/Ouaz/frdeluxe/blob/master/patch-diff.txt), listant les 1117 entrées modifiées pour le jeu principal, mais pas celles de l'Aide (trop nombreuses!), ni celles de l'Éditeur de cartes et de son Aide.
+Pour afficher toutes les modifications apportées, consultez le fichier [`patch-diff.txt`](https://github.com/Ouaz/frdeluxe/blob/master/patch-diff.txt), listant les 1119 entrées modifiées pour le jeu principal, mais pas celles de l'Aide (trop nombreuses!), ni celles de l'Éditeur de cartes et de son Aide.
 
 Notes: 
 - Le fichier `c3.eng` contient toutes les entrées du jeu principal.
