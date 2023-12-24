@@ -1,7 +1,7 @@
 --- Traduction vanilla de Caesar III
 +++ Traduction FrDeluxe de Caesar III
 
-1117 modifications.
+1119 modifications.
 
 @@ -6,7 +6,7 @@
 -   <string id="5">Quitter
@@ -713,11 +713,13 @@
 +   <string id="13">Vos colisées ont besoin de spectacles plus variés ! Leur fournir des gladiateurs ou des lions pourrait améliorer le niveau de divertissement de certains secteurs de la cité.
 +   <string id="14">Votre hippodrome est bien joli, mais il ne dispose d'aucun char ! En fabriquer comblerait la population de la cité, car de nombreux citoyens sont avides de ce type de divertissement.
 -   <string id="18">Vos citoyens, certains encore sous l'effet de la récente beuverie, saluent votre générosité.
-+   <string id="18">Vos citoyens, certains encore ivres de la récente beuverie, saluent votre générosité.
+-   <string id="19">Les gens parlent encore avec enthousiasme du dernier festival.
 -   <string id="20">Le souvenir du dernier festival disparaît progressivement de la mémoire de la population.
++   <string id="18">Vos citoyens, certains encore ivres de la récente beuverie, saluent votre générosité.
++   <string id="19">La population parle encore avec enthousiasme du dernier festival.
 +   <string id="20">Le souvenir du dernier festival s'efface peu à peu de la mémoire collective.
 -   <string id="24">&quot;Gouverneur ! Et le festival ?&quot; vous crie la population lorsque vous passez dans la rue.
-+   <string id="24">&quot;Gouverneur ! Et le festival ?&quot; scande la population lorsque vous passez dans la rue.
++   <string id="24">&quot;Gouverneur ! Un festival !&quot; scande la population déçue dans toute la cité.
 
 @@ -1531,18 +1531,18 @@
 -   <string id="34">Préparation du prochain festival.
@@ -1712,9 +1714,11 @@
 -   <string id="3">Ce réservoir ne fonctionne pas car il est trop éloigné de l'eau, ou il n'est pas connecté par un aqueduc à un autre réservoir opérationnel.
 +   <string id="3">Ce réservoir doit se trouver à proximité d'un plan d'eau, ou être connecté par un aqueduc à un autre réservoir opérationnel, avant de pouvoir entrer en fonction.
 -   <string id="1">La population tire toute l'eau dont elle a besoin des fontaines, qui doivent être situées dans la zone d'alimentation d'un réservoir. Une jolie fontaine fait la joie d'un quartier, mais augmente vos besoins en employés des eaux.
-+   <string id="1">La population tire toute l'eau dont elle a besoin des fontaines. Celles-ci doivent être reliées aux canalisations d'un réservoir, et nécessitent une main-d'œuvre assignée au Service des Eaux. Tout citoyen préfère une fontaine comme source d'eau.
+-   <string id="2">Cette fontaine n'est pas opérationnelle.  Modifiez la répartition de la main-d'œuvre pour assigner plus d'employés au Service des Eaux.
 -   <string id="3">Cette fontaine ne fonctionne pas car elle ne se trouve pas dans la zone d'alimentation d'un réservoir opérationnel.
 -   <string id="4">Cette fontaine sera bientôt connectée au réseau de tuyaux souterrains.
++   <string id="1">La population tire toute l'eau dont elle a besoin des fontaines. Celles-ci doivent être reliées aux canalisations d'un réservoir, et nécessitent une main-d'œuvre assignée au Service des Eaux. Tout citoyen préfère une fontaine comme source d'eau.
++   <string id="2">Cette fontaine n'est pas opérationnelle. Modifiez la répartition de la main-d'œuvre pour assigner plus d'employés au Service des Eaux.
 +   <string id="3">Cette fontaine ne fonctionnera pas, à moins qu'elle ne soit reliée aux canalisations d'un réservoir opérationnel.
 +   <string id="4">Cette fontaine sera bientôt reliée au réseau souterrain de canalisations.
 -   <string id="1">Les citoyens n'ayant pas accès à une fontaine peuvent tirer l'eau d'un puits, mais peu de personnes souhaiteront vivre ainsi.
