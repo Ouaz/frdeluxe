@@ -1,7 +1,7 @@
 --- Traduction vanilla de Caesar III
 +++ Traduction FrDeluxe de Caesar III
 
-1119 modifications.
+1123 modifications.
 
 @@ -6,7 +6,7 @@
 -   <string id="5">Quitter
@@ -2220,9 +2220,21 @@
 -   <string id="155">&quot;Les dockers sont en train d'emporter nos biens dans l'entrepôt&quot;
 +   <string id="155">&quot;Les dockers sont en train de porter nos biens dans l'entrepôt&quot;
 
+@@ -3654,11 +3654,11 @@
+-   <string id="170">&quot;Le manque d'emplois inquiète les citoyens&quot;
+-   <string id="171">&quot;Cette cité a vraiment besoin d'employés&quot;
++   <string id="170">&quot;Le manque d'emplois inquiète les citoyens.&quot;
++   <string id="171">&quot;Cette cité a vraiment besoin d'employés.&quot;
+-   <string id="174">&quot;Cette cité est assez agréable&quot;
++   <string id="174">&quot;Cette cité est assez agréable.&quot;
+
+@@ -3762,7 +3762,7 @@
+-   <string id="276">&quot;Il y a vraiment un problème de main-d'œuvre par ici.&quot;
++   <string id="276">&quot;Les patrons s'arrachent les cheveux car ils manquent de main-d'œuvre !&quot;
+
 @@ -3784,7 +3784,7 @@
 -   <string id="300">&quot;Cette cité est... Acceptable&quot;
-+   <string id="300">&quot;Cette cité est... acceptable&quot;
++   <string id="300">&quot;Cette cité est... acceptable.&quot;
 
 @@ -3804,7 +3804,7 @@
 -   <string id="320">&quot;Ave citoyen ! Etes-vous au courant de la colère des dieux ?&quot;
