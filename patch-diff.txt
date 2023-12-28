@@ -1,7 +1,7 @@
 --- Traduction vanilla de Caesar III
 +++ Traduction FrDeluxe de Caesar III
 
-1123 modifications.
+1188 modifications.
 
 @@ -6,7 +6,7 @@
 -   <string id="5">Quitter
@@ -2194,31 +2194,95 @@
 +   <string id="15">Va vers
 +   <string id="16">Retour vers
 
-@@ -3506,7 +3506,7 @@
+@@ -3487,17 +3487,17 @@
+-   <string id="3">&quot;Cette cité a désespérément besoin de main d'œuvre !&quot;
++   <string id="3">&quot;Cette cité a désespérément besoin de main-d'œuvre !&quot;
+-   <string id="5">&quot;J'ai peur que la colère des dieux ne s'abatte sur la cité !&quot;
++   <string id="5">&quot;J'ai peur que la colère des dieux ne s'abatte sur la cité.&quot;
+-   <string id="7">&quot;Cet endroit est vraiment magnifique.&quot;
+-   <string id="8">&quot;Pas de crime à signaler dans ce quartier&quot;
+-   <string id="9">&quot;Quelques crimes ont été signalés par ici &quot;
+-   <string id="10">&quot;Ce quartier est dangereux&quot;
+-   <string id="11">&quot;Excusez-moi, mais je suis un peu occupé en ce moment&quot;
+-   <string id="12">&quot;La chaleur dégagée par ces flammes est vraiment impressionnante&quot;
+-   <string id="13">&quot;Les incendies se propagent s'ils ne sont pas éteints rapidement&quot;
++   <string id="7">&quot;Cet endroit est vraiment magnifique !&quot;
++   <string id="8">&quot;Pas de crime à signaler dans ce quartier.&quot;
++   <string id="9">&quot;Quelques crimes ont été signalés par ici.&quot;
++   <string id="10">&quot;Ce quartier est dangereux !&quot;
++   <string id="11">&quot;Excusez-moi, mais je suis un peu occupé en ce moment !&quot;
++   <string id="12">&quot;La chaleur dégagée par ces flammes est vraiment impressionnante !&quot;
++   <string id="13">&quot;Les incendies se propagent s'ils ne sont pas éteints rapidement !&quot;
+
+@@ -3506,18 +3506,18 @@
 -   <string id="22">&quot;Comment un soldat est-il sensé se battre s'il n'a rien dans le ventre ?&quot;
+-   <string id="23">&quot;Je remercie les dieux de faire partie des rares personnes de cette cité qui aient trouvé un emploi !&quot;
 +   <string id="22">&quot;Comment un soldat est-il censé se battre s'il n'a rien dans le ventre ?&quot;
++   <string id="23">&quot;Je remercie les dieux de faire partie des rares personnes de cette cité qui aient trouvé un emploi.&quot;
+-   <string id="25">&quot;Garder ce mur est le passe-temps le plus intéressant qu'on puisse trouver dans cette cité... &quot;
++   <string id="25">&quot;Garder ce mur est le passe-temps le plus intéressant qu'on puisse trouver dans cette cité...&quot;
+-   <string id="28">&quot;Je ne suis qu'un simple soldat, mais je peux vous dire que cette cité est vraiment superbe !&quot;
+-   <string id="29">&quot;Aucun signe des barbares&quot;
+-   <string id="30">&quot;Aucun signe de l'ennemi&quot;
++   <string id="28">&quot;Je ne suis qu'un simple soldat, mais je peux vous dire que cette cité est vraiment superbe.&quot;
++   <string id="29">&quot;Aucun signe des barbares !&quot;
++   <string id="30">&quot;Aucun signe de l'ennemi !&quot;
+-   <string id="32">&quot;Ceux-là m'ont l'air costauds, nous aurons du mal à les vaincre&quot;
+-   <string id="33">&quot;Nous ferons de notre mieux, mais même des soldats de Rome auraient du mal à vaincre cet ennemi !&quot;
++   <string id="32">&quot;Ceux-là m'ont l'air costauds, nous aurons du mal à les vaincre...&quot;
++   <string id="33">&quot;Nous ferons de notre mieux, mais même des soldats de Rome auraient du mal à vaincre cet ennemi...&quot;
 
-@@ -3532,7 +3532,7 @@
+@@ -3527,14 +3527,14 @@
+-   <string id="43">&quot;J'ai faim ! J'envisage sérieusement de quitter cette cité si on ne peut rien y trouver à manger&quot;
+-   <string id="44">&quot;J'ai de la chance d'avoir un travail. C'est une chose plutôt rare dans cette cité&quot;
+-   <string id="45">&quot;Cette cité est en train de dépérir par manque de main d'œuvre !&quot;
++   <string id="43">&quot;J'ai faim ! J'envisage sérieusement de quitter cette cité si on ne peut rien y trouver à manger.&quot;
++   <string id="44">&quot;J'ai de la chance d'avoir un travail. C'est une chose plutôt rare dans cette cité.&quot;
++   <string id="45">&quot;Cette cité est en train de dépérir par manque de main-d'œuvre !&quot;
 -   <string id="48">&quot;Tout à l'air en ordre par ici&quot;
-+   <string id="48">&quot;Tout a l'air en ordre par ici&quot;
+-   <string id="49">&quot;N'est-ce pas là une cité magnifique ?&quot;
+-   <string id="50">&quot;Ces structures étaient en piteux état. Heureusement que je suis passé par là !&quot;
++   <string id="48">&quot;Tout a l'air en ordre par ici.&quot;
++   <string id="49">&quot;Aaah, n'est-ce pas là une cité magnifique ?&quot;
++   <string id="50">&quot;Ces structures étaient en piteux état ! Heureusement que je suis passé par là !&quot;
 
-@@ -3552,7 +3552,7 @@
+@@ -3549,12 +3549,12 @@
+-   <string id="65">&quot;J'aime pas cette cité. Trop de chômeurs.&quot;
+-   <string id="66">&quot;Cette cité souffre d'un manque de main d'œuvre.&quot;
++   <string id="65">&quot;J'aime pas cette cité ! Trop de chômeurs !&quot;
++   <string id="66">&quot;Cette cité souffre d'un manque de main-d'œuvre !&quot;
 -   <string id="68">&quot;Les dieux vont maudier cette cité si vous ne construisez pas plus de temples !&quot;
+-   <string id="69">&quot;Tout va bien dans cette cité&quot;
+-   <string id="70">&quot;Salutations ! C'est vraiment agréable de travailler dans une si belle cité.&quot;
 +   <string id="68">&quot;Les dieux vont maudire cette cité si vous ne construisez pas plus de temples !&quot;
++   <string id="69">&quot;Tout va bien dans cette cité !&quot;
++   <string id="70">&quot;Salutations ! C'est vraiment agréable de travailler dans une si belle cité !&quot;
 
-@@ -3578,7 +3578,7 @@
+@@ -3576,9 +3576,9 @@
+-   <string id="92">&quot;Je retourne remplir mes paniers&quot;
++   <string id="92">&quot;Je retourne remplir mes paniers !&quot;
 -   <string id="94">&quot;Il n'y a plus à vendre au marché, je rentre donc chez moi.&quot;
-+   <string id="94">&quot;Y'a plus rien à vendre sur le marché, je rentre chez moi.&quot;
++   <string id="94">&quot;Y'a plus rien à vendre sur le marché, je rentre chez moi !&quot;
 
 @@ -3590,11 +3590,11 @@
 -   <string id="106">&quot;Pousser des charrettes à longueur de journée réclame de l'énergie. Comment suis-je sensé pouvoir travailler sans rien dans le ventre ?&quot;
-+   <string id="106">&quot;Pousser des charrettes à longueur de journée réclame de l'énergie. Comment suis-je censé pouvoir travailler sans rien dans le ventre ?&quot;
++   <string id="106">&quot;Pousser des charrettes à longueur de journée réclame de l'énergie. Mais comment suis-je censé pouvoir travailler sans rien dans le ventre ?&quot;
 -   <string id="110">&quot;Je ne suis pas trop porté sur la religion, mais jamais ne n'aurais osé traiter les dieux avec tant de mépris !&quot;
 +   <string id="110">&quot;Je ne suis pas trop porté sur la religion, mais jamais je n'aurais osé traiter les dieux avec tant de mépris !&quot;
 
-@@ -3639,7 +3639,7 @@
+@@ -3622,7 +3622,7 @@
+-   <string id="138">&quot;Faites attention ! Ces ouvriers pourraient être un peu plus soigneux en chargeant mes chameaux avec les biens que je viens d'acheter.&quot;
++   <string id="138">&quot;Faites attention, oooh ! Ces ouvriers pourraient être un peu plus soigneux en chargeant mes chameaux avec les biens que je viens d'acheter !&quot;
+
+@@ -3639,11 +3639,11 @@
 -   <string id="155">&quot;Les dockers sont en train d'emporter nos biens dans l'entrepôt&quot;
-+   <string id="155">&quot;Les dockers sont en train de porter nos biens dans l'entrepôt&quot;
++   <string id="155">&quot;Les dockers sont en train de porter nos biens dans l'entrepôt.&quot;
+-   <string id="157">&quot;Si cela ne tenait qu'à moi je ne viendrais jamais par ici. Cette cité n'achète rien et n'a rien à vendre !&quot;
+-   <string id="158">&quot;Je suis impatient d'arriver. J'aime faire des affaires ici !&quot;
+-   <string id="159">&quot;Les profits que je fais ici rendent le mal de mer supportable !&quot;
++   <string id="157">&quot;Si cela ne tenait qu'à moi, je ne viendrais jamais par ici. Cette cité n'achète rien et n'a rien à vendre.&quot;
++   <string id="158">&quot;Je suis impatient d'arriver ! J'aime faire des affaires ici.&quot;
++   <string id="159">&quot;Les profits que je fais ici rendent le mal de mer supportable...&quot;
 
 @@ -3654,11 +3654,11 @@
 -   <string id="170">&quot;Le manque d'emplois inquiète les citoyens&quot;
@@ -2228,33 +2292,121 @@
 -   <string id="174">&quot;Cette cité est assez agréable&quot;
 +   <string id="174">&quot;Cette cité est assez agréable.&quot;
 
-@@ -3762,7 +3762,7 @@
+@@ -3675,11 +3675,11 @@
+-   <string id="191">&quot;J'espère ne pas perdre mon travail. Il est vraiment trop difficile de trouver un travail dans cette cité !&quot;
+-   <string id="192">&quot;Je suis abasourdi par le nombre de postes à pourvoir dans cette cité.&quot;
++   <string id="191">&quot;J'espère ne pas perdre mon travail. Il est vraiment trop difficile de trouver un travail dans cette cité.&quot;
++   <string id="192">&quot;Je suis abasourdi par le nombre de postes à pourvoir dans cette cité !&quot;
+-   <string id="195">&quot;Je donnerais à cette cité... 8 sur 10&quot;
++   <string id="195">&quot;Je donnerais à cette cité... 8 sur 10.&quot;
+
+@@ -3695,12 +3695,12 @@
+-   <string id="211">&quot;J'ai faim !&quot;
+-   <string id="212">&quot;Y'a plein de gens dans la rue. Ils ont pas de travail ?&quot;
+-   <string id="213">&quot;Y'a un monsieur, il est venu à l'école pour demander si on voulait pas travailler pour lui ! Il a dit qu'il avait &quot;désespérément besoin de main d'œuvre&quot;
++   <string id="211">&quot;J'ai faaaim !&quot;
++   <string id="212">&quot;Y'a plein de gens dans la rue ! Ils ont pas de travail ?&quot;
++   <string id="213">&quot;Y'a un monsieur, il est venu à l'école pour demander si on voulait pas travailler pour lui. Il a dit qu'il avait &quot;désespérément besoin de main-d'œuvre.&quot;
+-   <string id="215">&quot;J'ai peur ! Les dieux y sont pas contents et y vont tous nous foudroyer !&quot;
+-   <string id="216">&quot;Elle est bien cette cité&quot;
++   <string id="215">&quot;J'ai peur ! Les dieux y sont pas contents ! Y vont tous nous foudroyer !&quot;
++   <string id="216">&quot;Elle est bien cette cité !&quot;
+
+@@ -3719,8 +3719,8 @@
+-   <string id="235">&quot;Y'a rien à faire le soir dans cette cité ! Pffff....&quot;
+-   <string id="236">&quot;Le gouverneur n'a aucun respect pour les dieux.&quot;
++   <string id="235">&quot;Y'a rien à faire le soir dans cette cité ! Pffff...&quot;
++   <string id="236">&quot;Le gouverneur n'a aucun respect pour les dieux !&quot;
+
+@@ -3738,7 +3738,7 @@
+-   <string id="254">&quot;Le chômage est problématique dans cette cité. J'envisage de la quitter&quot;
++   <string id="254">&quot;Le chômage est problématique dans cette cité. J'envisage de la quitter.&quot;
+
+@@ -3760,11 +3760,11 @@
 -   <string id="276">&quot;Il y a vraiment un problème de main-d'œuvre par ici.&quot;
 +   <string id="276">&quot;Les patrons s'arrachent les cheveux car ils manquent de main-d'œuvre !&quot;
+-   <string id="278">&quot;Les dieux sont mécontents. Pourquoi le gouverneur ne construit-il pas plus de temples !&quot;
++   <string id="278">&quot;Les dieux sont mécontents. Pourquoi le gouverneur ne construit-il pas plus de temples ?&quot;
+-   <string id="280">&quot;Quelle cité merveilleuse. C'est un plaisir d'y travailler&quot;
++   <string id="280">&quot;Quelle cité merveilleuse. C'est un plaisir d'y travailler.&quot;
 
-@@ -3784,7 +3784,7 @@
+@@ -3779,13 +3779,13 @@
+-   <string id="295">&quot;Je ne peux m'exprimer correctement si j'ai le ventre vide.&quot;
++   <string id="295">&quot;Je ne peux m'exprimer correctement si j'ai le ventre vide...&quot;
+-   <string id="298">&quot;Je fais de mon mieux, mais il paraît évident que les citoyens ont besoin de plus de lieux de divertissement&quot;
++   <string id="298">&quot;Je fais de mon mieux, mais il paraît évident que les citoyens ont besoin de plus de lieux de divertissement.&quot;
 -   <string id="300">&quot;Cette cité est... Acceptable&quot;
+-   <string id="301">&quot;La vie dans cette adorable cité est tout simplement exquise&quot;
 +   <string id="300">&quot;Cette cité est... acceptable.&quot;
++   <string id="301">&quot;La vie dans cette adorable cité est tout simplement exquise !&quot;
 
-@@ -3804,7 +3804,7 @@
+@@ -3802,11 +3802,11 @@
+-   <string id="318">&quot;C'est terrible. Personne ne veut-il donc travailler dans cette cité ?&quot;
++   <string id="318">&quot;C'est terrible ! Personne ne veut-il donc travailler dans cette cité ?&quot;
 -   <string id="320">&quot;Ave citoyen ! Etes-vous au courant de la colère des dieux ?&quot;
 +   <string id="320">&quot;Ave citoyen ! Êtes-vous au courant de la colère des dieux ?&quot;
+-   <string id="322">&quot;Citoyen ! J'ai combattu dans de nombreuses cités, mais celle-ci est vraiment la plus belle.&quot;
++   <string id="322">&quot;Citoyen ! J'ai combattu dans de nombreuses cités, mais celle-ci est vraiment la plus belle !&quot;
 
-@@ -3828,7 +3828,7 @@
+@@ -3821,14 +3821,14 @@
+-   <string id="337">&quot;Sans nourriture, ce lion va finir par dévorer son dompteur ! Et c'est moi !&quot;
+-   <string id="338">&quot;Il y a un problème de chômage dans cette cité&quot;
+-   <string id="339">&quot;Cette cité a besoin d'ouvriers. On va finir par me demander de faire travailler mon lion...&quot;
+-   <string id="340">&quot;Léo et moi, nous combattons à longueur de journée, mais les gens s'ennuient toujours. Ils ont besoin d'autres divertissements !&quot;
++   <string id="337">&quot;Sans nourriture, ce lion va finir par dévorer son dompteur... Et c'est moi !&quot;
++   <string id="338">&quot;Il y a un problème de chômage dans cette cité.&quot;
++   <string id="339">&quot;Cette cité a besoin d'ouvriers. On va finir par me demander de faire travailler mon lion.&quot;
++   <string id="340">&quot;Léo et moi, nous combattons à longueur de journée, mais les gens s'ennuient toujours. Ils ont besoin d'autres divertissements.&quot;
 -   <string id="344">&quot;A toi de jouer Leo. Maaaais oui c'est un bon lion ça !&quot;
-+   <string id="344">&quot;À toi de jouer Léo. Maaaais oui c'est un bon lion ça !&quot;
++   <string id="344">&quot;À toi de jouer Léo. Maaais oui, c'est un bon lion ça !&quot;
 
-@@ -3863,7 +3863,7 @@
+@@ -3847,7 +3847,7 @@
+-   <string id="363">&quot;J'ai couru dans des cités pires que celle-ci&quot;
++   <string id="363">&quot;J'ai couru dans des cités pires que celle-ci.&quot;
+
+@@ -3863,11 +3863,11 @@
 -   <string id="379">&quot;Ave ! A quoi cela sert-il d'être riche s'il n'y a pas de nourriture à acheter ?&quot;
 +   <string id="379">&quot;Ave ! À quoi cela sert-il d'être riche s'il n'y a pas de nourriture à acheter ?&quot;
+-   <string id="382">&quot;Citoyen ! N'est-ce pas là la plus morne cité de tout l'empire ?&quot;
+-   <string id="383">&quot;Citoyen ! L'heure est grave ! Les dieux sont mécontents.&quot;
++   <string id="382">&quot;Citoyen ! N'est-ce pas là la plus morne cité de tout l'Empire ?&quot;
++   <string id="383">&quot;Citoyen ! L'heure est grave ! Les dieux sont mécontents !&quot;
+
+@@ -3886,11 +3886,11 @@
+-   <string id="402">&quot;Citoyen ! Cette cité a besoin de plus d'ouvriers !&quot;
+-   <string id="403">&quot;Je travaille dur, et j'aime m'amuser. Mais il n'y a rien à faire dans cette cité !&quot;
++   <string id="402">&quot;Citoyen, cette cité a besoin de plus d'ouvriers !&quot;
++   <string id="403">&quot;Je travaille dur, et j'aime bien m'amuser. Mais il n'y a rien à faire dans cette cité !&quot;
+-   <string id="406">&quot;Ave ! La vie ici est vraiment agréable&quot;
++   <string id="406">&quot;Ave ! La vie ici est vraiment agréable !&quot;
 
 @@ -3912,7 +3912,7 @@
 -   <string id="428">&quot;A bas le gouverneur !&quot;
 +   <string id="428">&quot;À bas le gouverneur !&quot;
 
-@@ -4125,7 +4125,7 @@
+@@ -3975,8 +3975,8 @@
+-   <string id="491">&quot;J'en ai marre de ce trou ! Il n'y a pas de travail ici !&quot;
+-   <string id="492">&quot;Si je reste ici je vais finir par mourir. Il n'y a plus rien à manger dans cette cité&quot;
++   <string id="491">&quot;J'en ai marre de ce trou ! Y'a pas de travail ici !&quot;
++   <string id="492">&quot;Si je reste ici je vais finir par mourir. Il n'y a plus rien à manger dans cette cité !&quot;
+
+@@ -3996,7 +3996,7 @@
+-   <string id="512">&quot;Je suis nouveau par ici. Connaissez-vous un endroit où je peux m'installer ?&quot;
++   <string id="512">&quot;Je suis nouveau par ici ! Connaissez-vous un endroit où je peux m'installer ?&quot;
+
+@@ -4122,10 +4122,10 @@
+-   <string id="638">&quot;Hé bien ! Je crois que je vais avoir du travail pour tenter de faire comprendre à ces barbares les avantages de la culture romaine !&quot;
+-   <string id="639">&quot;Ave ! Mes enseignements des avantages de Rome ont l'air de rentrer dans la tête de ces cruels barbares !&quot;
++   <string id="638">&quot;Et bien je crois que je vais avoir du travail pour tenter de faire comprendre à ces barbares les avantages de la culture romaine...&quot;
++   <string id="639">&quot;Ave ! Mes enseignements des avantages de Rome ont l'air de rentrer dans la tête de ces cruels barbares.&quot;
 -   <string id="641">&quot;Je vais faire tout mon possible pour tenter de calmer ces barbares, Laissez moi leur parler et il cesseront leur attaque contre la cité.&quot;
 +   <string id="641">&quot;Je vais faire tout mon possible pour tenter de calmer ces barbares. Laissez-moi leur parler et il cesseront leur attaque contre la cité.&quot;
+
+@@ -4144,8 +4144,8 @@
+-   <string id="660">&quot;Ce panier est dix fois trop lourd ! Et puis pourquoi c'est moi qui le porte d'abord ? S'ils ont si faim que ça y z'ont qu'à aller la chercher eux même leur bouffe !&quot;
+-   <string id="661">&quot;Salut ! J'emporte ce panier de nourriture chez la dame du marché, J'espère que j'aurai un bon pourboire !&quot;
++   <string id="660">&quot;Ce panier est dix fois trop lourd ! Et puis pourquoi c'est moi qui le porte d'abord ? S'ils ont si faim que ça, y z'ont qu'à aller la chercher eux même leur bouffe !&quot;
++   <string id="661">&quot;Salut ! J'emporte ce panier de nourriture chez la dame du marché. J'espère que j'aurai un bon pourboire.&quot;
 
 @@ -4159,40 +4159,40 @@
 -   <string id="1">Des indigènes vivent paisiblement ici. Tout ce qu'ils souhaitent est qu'on les laisse tranquille.
