@@ -1378,8 +1378,8 @@
 -   <string id="8">Combats prévus pendant
 -   <string id="9">Pas de représentation actuellement
 -   <string id="10">Représentations théâtrales pendant
-+   <string id="4">Cet amphithéâtre héberge des combats de gladiateurs pour la plus grande joie de vos citoyens. Mais il recherche des acteurs pour sa programmation théâtrale.
-+   <string id="5">Cet amphithéâtre propose de nombreuses pièces de compagnies locales, mais il satisferait encore plus son public en proposant des combats de gladiateurs.
++   <string id="4">Cet amphithéâtre accueille des combats de gladiateurs, à la grande joie de vos citoyens. Mais il manque d'acteurs pour varier les plaisirs.
++   <string id="5">Cet amphithéâtre propose de nombreuses pièces de théâtre, mais il ravirait encore plus le public en accueillant des combats de gladiateurs.
 +   <string id="6">Cet amphithéâtre est bien morne. Sans employés, il ne propose aucune distraction aux habitants.
 +   <string id="7">Aucun combat de gladiateurs actuellement
 +   <string id="8">Combats de gladiateurs prévus pour
