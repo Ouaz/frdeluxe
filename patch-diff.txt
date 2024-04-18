@@ -2437,16 +2437,16 @@
 -   <string id="10">Nous manquons d'employés, ce qui ralentit la formation des troupes. En revanche, nous disposons des armes nécessaires pour équiper tous types de troupes.
 -   <string id="11">Nous manquons sérieusement d'employés. Les stocks d'armes nous permettent bien de former tous types de troupes, mais à un rythme très faible.
 -   <string id="12">Bien que des armes soient disponibles, sans employés, il nous est difficile de former même la plus sommaire des troupes.
-+   <string id="3">Sans aucune équipe de formateurs, nous ne pouvons entraîner une seule recrue. Que Mars nous protège si l'ennemi attaque !
-+   <string id="4">Nous ne formons actuellement aucune recrue, car ni les forts, ni les tours de la cité n'ont réclamé de nouvelles troupes.
-+   <string id="5">Nous pouvons former de nouveaux auxiliaires à un rythme soutenu, mais sans stocks d'armes, il nous est impossible de former de nouveaux légionnaires.
-+   <string id="6">Comme il nous manque quelques employés, cela ralentit le rythme de formation de nouveaux soldats. Et sans stocks d'armes, nous ne pouvons former de nouveaux légionnaires.
++   <string id="3">Sans une équipe de formateurs, nous ne pouvons entraîner aucune recrue. Que Mars nous protège si l'ennemi attaque !
++   <string id="4">Nous ne formons actuellement aucune recrue, car ni les forts ni les tours de la cité n'ont réclamé de nouvelles troupes.
++   <string id="5">Nous pouvons former rapidement de nouveaux auxiliaires, mais sans stocks d'armes, impossible de former de nouveaux légionnaires.
++   <string id="6">Le manque de quelques employés ralentit la formation de nouveaux soldats. Et sans stocks d'armes, impossible de former de nouveaux légionnaires.
 +   <string id="7">Nous sommes en sous-effectif et à court d'armes ! Nous ne pouvons former que des auxiliaires, et à un rythme très lent.
-+   <string id="8">Avec une équipe au strict minimum et sans apport en armes, il nous est difficile de former ne serait-ce que le plus basique des fantassins.
-+   <string id="9">Nous formons de nouveaux soldats avec une efficacité maximale, et avons les stocks d'armes nécessaires pour former tous types de troupes.
-+   <string id="10">Nous formons de nouveaux soldats avec une efficacité réduite, en raison d'un manque de personnel. Nous avons cependant les stocks d'armes nécessaires pour former tous types de troupes.
-+   <string id="11">Nous sommes en sous-effectif et formons de nouveaux soldats à un rythme très lent. Mais nous avons les stocks d'armes nécessaires pour former tous types de troupes.
-+   <string id="12">Avec une équipe au strict minimum, nous formons de nouveaux soldats à un rythme extrêmement lent, bien que nous ayons les stocks d'armes nécessaires pour former tous types de troupes.
++   <string id="8">Avec une équipe si réduite et sans apport en armes, il nous est difficile de former ne serait-ce que le plus basique des fantassins.
++   <string id="9">Nous formons de nouveaux soldats avec une efficacité maximale, et avons les stocks d'armes requis pour tous types de troupes.
++   <string id="10">Nous formons de nouveaux soldats avec une efficacité réduite, dû au manque de personnel, mais avons les stocks d'armes requis pour tous types de troupes.
++   <string id="11">En sous-effectif, nous formons de nouveaux soldats à un rythme très lent, mais avons les stocks d'armes requis pour tous types de troupes.
++   <string id="12">Avec une équipe si réduite, nous formons de nouveaux soldats à une lenteur extrême, bien que nous ayons les stocks d'armes requis pour tous types de troupes.
 
 @@ -4206,86 +4206,86 @@
 -   <string id="9">&quot;Les Lions.&quot;
