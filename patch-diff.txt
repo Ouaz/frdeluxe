@@ -1564,7 +1564,7 @@
 -   <string id="1">Les corps de garde permettent de surveiller le passage des citoyens et des marchands.
 +   <string id="1">Les murs de la cité nécessitent un corps de garde afin que les immigrants et les marchands puissent aller et venir librement.
 -   <string id="1">Construisez des tours à intervalles réguliers, ainsi qu'aux points faibles de vos fortifications. Reliez-les à une route pour qu'elles hébergent des gardes en provenance de la caserne. Ils accueilleront vos assaillants avec un déluge de javelines et patrouilleront les murs quand ceux-ci le permettent.
-+   <string id="1">Construisez des tours à intervalles réguliers le long de vos murs, ou au moins aux points vulnérables de vos fortications. Une fois connectées à une route, les tours hébergent des gardes en provenance de la caserne de la cité. Ceux-ci font pleuvoir leurs javelines sur les envahisseurs et patrouillent sur les murs suffisamment larges.
++   <string id="1">Construisez des tours à intervalles réguliers le long de vos murs, ou au moins aux points vulnérables de vos fortications. Une fois connectées à une route, les tours hébergent des sentinelles en provenance de la caserne de la cité, faisant pleuvoir leurs javelines sur les envahisseurs et patrouillant sur les murs suffisamment larges.
 -   <string id="4">Nous sommes opérationnels, mais nous avons besoin de troupes en provenance d'une caserne pour défendre la ville.
 +   <string id="4">Nous sommes opérationnels, mais nous avons besoin de troupes en provenance d'une caserne pour défendre la cité.
 -   <string id="0">Temple à Cérès (l'agriculture)
@@ -2522,7 +2522,7 @@
 +   <string id="57">Parfait
 +   <string id="58">Retourner au fort
 -   <string id="1">Les murs défendent votre cité des invasions, mais ne sont pas indestructibles. Plus ils sont épais, plus ils sont solides. De plus, des soldats peuvent les patrouiller quand les murs sont suffisamment larges
-+   <string id="1">Les murs empêche les envahisseurs de pénétrer dans votre cité, mais ces derniers peuvent les détruire. Les murs épais sont plus solides et permettent aux gardes des tours attenantes d'y patrouiller.
++   <string id="1">Les murs empêchent les envahisseurs de pénétrer dans votre cité, mais ces derniers peuvent les détruire. Les murs épais sont plus solides et permettent aux sentinelles des tours attenantes d'y patrouiller.
 -   <string id="0">Gravats
 -   <string id="1">Il ne reste que des ruines de ce bâtiment. Ces gravats ne font rien pour améliorer l'attrait de ce quartier.
 +   <string id="0">Décombres
