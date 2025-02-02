@@ -1,7 +1,7 @@
 --- Traduction vanilla de Caesar III
 +++ Traduction FrDeluxe de Caesar III
 
-1188 modifications.
+1199 modifications.
 
 @@ -6,7 +6,7 @@
 -   <string id="5">Quitter
@@ -302,6 +302,10 @@
 @@ -1069,7 +1069,7 @@
 -   <string id="7">Pas d'ambiance cité
 +   <string id="7">Pas d'ambiance de la cité
+
+@@ -1031,24 +1031,24 @@
+-   <string id="117">Grade
++   <string id="117">Rang
 
 @@ -1077,24 +1077,24 @@
 -   <string id="0">Une lointaine cité.
@@ -2539,6 +2543,30 @@
 +   <string id="2">Demander des vivres
 -   <string id="0">Cliquez sur la ville de votre choix
 +   <string id="0">Cliquez sur la cité de votre choix
+
+@@ -4297,86 +4297,86 @@
+
+-   <string id="4">Seconde mission
++   <string id="4">Deuxième mission
+-   <string id="7">350 av. J.-C. - Troisième mission
++   <string id="7">350 av. J.-C. - Mission III
+-   <string id="10">270 av. J.-C. - Quatrième mission
++   <string id="10">270 av. J.-C. - Mission IV
+-   <string id="13">220 av. J.-C. - Cinquième mission
++   <string id="13">220 av. J.-C. - Mission V
+-   <string id="16">170 av. J.-C. - Sixième mission
++   <string id="16">170 av. J.-C. - Mission VI
+-   <string id="19">120 av. J.-C. - Septième mission
++   <string id="19">120 av. J.-C. - Mission VII
+-   <string id="22">70 av. J.-C. - Huitième mission
++   <string id="22">70 av. J.-C. - Mission VIII
+-   <string id="25">10 av. J.-C. - Neuvième mission
++   <string id="25">10 av. J.-C. - Mission IX
+-   <string id="28">50 ap. J.-C. - Dixième mission
++   <string id="28">50 ap. J.-C. - Mission X
+-   <string id="31">100 ap. J.-C. - Dernière mission
++   <string id="31">100 ap. J.-C. - Mission finale
+
 
 @@ -4321,18 +4321,18 @@
 -   <string id="0">L'emplacement idéal pour une grande cité sur la côte Nord de l'Afrique. Honorez les dieux et comblez vos citoyens.
