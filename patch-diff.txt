@@ -691,7 +691,7 @@
 +   <string id="24">Un accès à une bibliothèque est désormais requis dans certains secteurs de la cité. Vos citoyens ont le temps de lire, et ont maintenant besoin de pouvoir accéder à de la littérature.
 +   <string id="25">Certains secteurs de la cité réclament un meilleur accès à une bibliothèque. Les citoyens aisés aiment la lecture, mais n'apprécient guère de devoir marcher aussi loin jusqu'à la bibliothèque.
 +   <string id="26">Un meilleur accès aux écoles, universités et bibliothèques améliorerait certains secteurs de la cité. Il est anormal que les gens soient obligés de marcher si loin pour s'instruire !
-+   <string id="27">Aucun citoyen ne réclame de structures éducatives pour l'instant. Mais avec le développement de la cité, les habitants souhaiteront des écoles et des universités, puis réclameront dans un second temps des bibliothèques.
++   <string id="27">Aucun citoyen ne réclame de structures éducatives pour l'instant. Mais avec le développement de la cité, les habitants souhaiteront des écoles et des universités, puis réclameront des bibliothèques.
 +   <string id="28">Toutes les demandes de structures éducatives dans la cité sont satisfaites, et la couverture éducative pour l'ensemble de la cité est parfaite.
 +   <string id="29">Bien que tous les quartiers de la cité aient accès aux structures éducatives, construire plus d'écoles réduirait la taille des classes.
 +   <string id="30">Bien que tous les quartiers de la cité aient accès aux structures éducatives, construire plus d'universités réduirait la taille des promotions.
@@ -708,7 +708,7 @@
 -   <string id="13">Vos colisées ont besoin de spectacles plus variés ! Leur fournir des gladiateurs ou des lions pourrait améliorer la qualité des divertissements de certains secteurs de la cité.
 -   <string id="14">Votre hippodrome est bien joli, mais il ne dispose d'aucun char ! Faites-en fabriquer pour augmenter le niveau de loisirs et attirer plus d'habitants dans votre cité.
 +   <string id="6">N/A
-+   <string id="7">Pour le moment, vos citoyens ont à l'esprit d'autres besoins plus élémentaires que les divertissements. Mais avec le développement de votre cité, ils réclameront quelque chose qui leur fasse oublier la monotonie de leur train-train quotidien.
++   <string id="7">Pour l'instant, vos citoyens ont à l'esprit d'autres besoins plus élémentaires que les divertissements. Mais avec le développement de votre cité, ils réclameront des structures leur faisant oublier la monotonie du train-train quotidien.
 +   <string id="8">Actuellement, les citoyens ayant besoin de se changer les idées sont comblés. Mais avec le développement de la cité, il vous faudra rapidement fournir des formes de divertissement plus variées et plus nombreuses !
 +   <string id="9">Des citoyens se plaignent d'un accès insuffisant aux lieux de loisirs. Certains secteurs de la cité ont besoin de structures de divertissement plus variées afin de pouvoir se développer.
 +   <string id="10">Des secteurs de la cité se plaignent de ne pas avoir accès aux lieux de loisirs. La construction de nouvelles structures de divertissement pourrait aider au développement de ces quartiers.
@@ -1728,7 +1728,7 @@
 -   <string id="1">Les citoyens n'ayant pas accès à une fontaine peuvent tirer l'eau d'un puits, mais peu de personnes souhaiteront vivre ainsi.
 -   <string id="2">Ce puits est superflu car toutes les maisons qu'il dessert utilisent l'eau d'une fontaine locale.
 -   <string id="3">Ce puits est inutile car aucune maison ne se trouve à proximité.
-+   <string id="1">Les citoyens sans accès à une fontaine peuvent tirer l'eau des puits, mais les quartiers qui en dépendent ne sont pas des lieux de vie attrayants.
++   <string id="1">Les citoyens sans accès à une fontaine tirent l'eau des puits, mais les quartiers qui en dépendent ne sont pas des lieux de vie attrayants.
 +   <string id="2">Ce puits est superflu, car toutes les maisons qu'il dessert tirent leur eau d'une fontaine locale.
 +   <string id="3">Ce puits est actuellement inutile, car aucune maison ne se trouve dans son périmètre d'approvisionnement en eau.
 -   <string id="1">Ce temple de marbre augmente l'attrait du quartier et apaise les dieux. En revanche, il n'emploie pas de prêtre et ne procure aux habitations aucun accès à un dieu en particulier.
