@@ -1518,7 +1518,7 @@
 -   <string id="3">Ces thermes sont opérationnels, et les habitants sont propres et détendus.
 -   <string id="4">Ces thermes ne sont pas dans la zone de couverture en eau d'un réservoir.
 +   <string id="1">Les personnes civilisées prennent un bain au moins une fois par jour. Au-delà de l'amélioration de l'hygiène publique, les thermes sont également un agréable lieu de rencontre, offrant des activités de détente diverses et variées.
-+   <string id="2">Ces thermes ne sont pas opérationnels. Sans aucun serviteur, qui voudrait prendre son bain ici ?
++   <string id="2">Ces thermes ne sont pas opérationnels. Sans aucun serviteur à disposition, qui voudrait bien prendre son bain ici ?
 +   <string id="3">Ces thermes sont opérationnels, et les citoyens du quartier sont propres et détendus.
 +   <string id="4">Ces thermes ont besoin d'être reliés aux canalisations d'un réservoir.
 -   <string id="1">Il ne serait pas convenable d'apparaître mal rasé en public ! Tout citoyen qui se respecte rend régulièrement visite au barbier et soigne son apparence.
