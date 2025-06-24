@@ -1,13 +1,13 @@
 --- Traduction vanilla de Caesar III
 +++ Traduction FrDeluxe de Caesar III
 
-1200 modifications.
+1199 modifications.
 
 @@ -6,7 +6,7 @@
 -   <string id="5">Quitter
 +   <string id="5">Quitter le jeu
 
-@@ -21,18 +21,18 @@
+@@ -21,27 +21,27 @@
 -   <string id="2">Pas de bulles d'aide
 -   <string id="3">Quelques bulles d'aide
 -   <string id="4">Toutes les bulles d'aide
@@ -20,8 +20,6 @@
 +   <string id="5">Alertes - OFF
 +   <string id="6">Alertes - ON
 +   <string id="7">À propos de Caesar III
-
-@@ -33,19 +33,19 @@
 -   <string id="4">Evaluation
 +   <string id="4">Évaluation
 -   <string id="8">Education
@@ -29,7 +27,7 @@
 -   <string id="12">Conseiller
 +   <string id="12">Conseiller en chef
 
-@@ -51,15 +51,15 @@
+@@ -51,17 +51,17 @@
 -   <string id="7">Vous ne possédez pas la quantité nécessaire dans vos entrepôts.
 +   <string id="7">Vous ne possédez pas la quantité nécessaire dans vos entrepôts
 -   <string id="9">Vous n'avez aucune légion à envoyer.
@@ -41,7 +39,7 @@
 -   <string id="17">Veuillez mettre le CD de Caesar III dans votre lecteur de CD-ROM
 +   <string id="17">Veuillez insérer le CD de Caesar III dans votre lecteur de CD-ROM
 
-@@ -70,7 +70,7 @@
+@@ -70,8 +70,8 @@
 -   <string id="2">Mois jusqu'à la défaite
 -   <string id="3">Mois jusqu'à la victoire
 +   <string id="2">Mois avant défaite
@@ -61,7 +59,7 @@
 +   <string id="6">Editer Empire
 +   <string id="7">Sauvegarder Empire
 
-@@ -165,11 +165,11 @@
+@@ -163,13 +163,13 @@
 -   <string id="1">Aller vers la zone de troubles
 +   <string id="1">Voir la zone du problème
 -   <string id="3">Les stocks de nourriture sont presque épuisés.
@@ -87,7 +85,7 @@
 -   <string id="2">Vous ne pouvez construire qu'un seul bâtiment de ce type
 +   <string id="2">Un seul bâtiment de ce type peut être construit
 
-@@ -279,48 +279,48 @@
+@@ -279,56 +279,56 @@
 -   <string id="13">Il faut 2 unités de marbre pour bâtir un grand temple.
 -   <string id="14">Il faut 2 unités de marbre pour bâtir un oracle.
 -   <string id="15">La cité manque de main-d'œuvre.
@@ -170,8 +168,6 @@
 +   <string id="54">Ce lac n'a pas d'accès à la mer
 -   <string id="57">Doit être placé sur une rivière
 +   <string id="57">Doit être placé au bord de l'eau
-
-@@ -328,7 +328,7 @@
 -   <string id="62">Les gens qui y vivent vont bientôt périr
 +   <string id="62">Les gens y vivant vont bientôt périr
 
@@ -205,13 +201,13 @@
 -   <string id="15">Villa imposante
 +   <string id="15">Villa somptueuse
 
-@@ -639,10 +639,10 @@
+@@ -641,8 +641,8 @@
 -   <string id="8">Proconsul
 -   <string id="9">Consul
 +   <string id="8">Consul
 +   <string id="9">Proconsul
 
-@@ -722,7 +722,7 @@
+@@ -722,11 +722,11 @@
 -   <string id="31">Un Britannique
 +   <string id="31">Un Briton
 -   <string id="35">Un guerrier visigoth
@@ -295,6 +291,10 @@
 +   <string id="20">Pas d'invasions
 +   <string id="21">Planification d'une requête de l'Empereur
 
+@@ -1031,7 +1031,7 @@
+-   <string id="117">Grade
++   <string id="117">Rang
+
 @@ -1046,7 +1046,7 @@
 -   <string id="132">Faveur
 +   <string id="132">Estime
@@ -302,10 +302,6 @@
 @@ -1069,7 +1069,7 @@
 -   <string id="7">Pas d'ambiance cité
 +   <string id="7">Pas d'ambiance de la cité
-
-@@ -1031,24 +1031,24 @@
--   <string id="117">Grade
-+   <string id="117">Rang
 
 @@ -1077,24 +1077,24 @@
 -   <string id="0">Une lointaine cité.
@@ -340,16 +336,16 @@
 +   <string id="3">Ingénierie
 -   <string id="8">Hygiène et éducation
 +   <string id="8">Hygiène et Education
--   <string id="22">Secteur
-+   <string id="22">Secteur d'activité
--   <string id="24">En activité
-+   <string id="24">Actifs
 
 @@ -1181,14 +1181,14 @@
 -   <string id="19">Coût annuel de la force de travail
 +   <string id="19">Coût annuel estimé de
+-   <string id="22">Secteur
++   <string id="22">Secteur d'activité
+-   <string id="24">En activité
 -   <string id="25">Niveau de priorité.
 -   <string id="26">Pas de priorité.
++   <string id="24">Actifs
 +   <string id="25">Niveau de priorité
 +   <string id="26">Pas de priorité
 
@@ -447,7 +443,7 @@
 -   <string id="60">Un coffre de saphirs
 +   <string id="60">Un coffret de saphirs
 
-@@ -1288,74 +1288,74 @@
+@@ -1288,85 +1288,85 @@
 -   <string id="69">Envoyer un cadeau à l'empereur.
 -   <string id="70">Vous n'avez pas fait assez d'économies pour pouvoir envoyer un cadeau à l'empereur. Essayez d'augmenter votre salaire !
 -   <string id="71">Attention, si votre salaire dépasse votre rang actuel, l'empereur n'appréciera pas trop !
@@ -528,8 +524,6 @@
 +   <string id="52">Rarement la Pax Romana n'aura été aussi effective que dans votre cité !
 -   <string id="0">Conseiller commercial.
 +   <string id="0">Conseiller commercial
-
-@@ -1365,11 +1365,11 @@
 -   <string id="5">Importé
 -   <string id="6">Exporté à partir de
 +   <string id="5">Importer
@@ -542,14 +536,14 @@
 +   <string id="9">industries actives dans la cité
 +   <string id="10">industrie suspendue dans la cité
 +   <string id="11">industries suspendues dans la cité
+
+@@ -1377,10 +1377,10 @@
 -   <string id="22">Prix d'achat
 -   <string id="23">Prix de vente
-+   <string id="22">Acheteur paye
-+   <string id="23">Vendeur reçoit
-
-@@ -1379,8 +1379,8 @@
 -   <string id="24">Il n'existe pas de route de commerce pour le transport de ces biens.
 -   <string id="25">Ces biens ne sont disponibles qu'à l'importation.
++   <string id="22">Acheteur paye
++   <string id="23">Vendeur reçoit
 +   <string id="24">Aucune route de commerce ouverte pour ces biens
 +   <string id="25">Ces biens sont disponibles uniquement à l'importation
 
@@ -769,22 +763,20 @@
 -   <string id="34">Irrité
 +   <string id="34">En colère
 
-@@ -1577,7 +1577,7 @@
+@@ -1577,34 +1577,34 @@
 -   <string id="43">Vous avez désactivé l'influence des Dieux. Qu'ils soient heureux ou furieux, ils ne se manifesteront pas.
 +   <string id="43">Vous avez désactivé l'influence des dieux. Qu'ils soient heureux ou furieux, ils ne se manifesteront pas.
-
-@@ -1585,22 +1585,22 @@
 -   <string id="4">Somme due (environ) :
 -   <string id="5">de la population est redevable de taxes
 +   <string id="4">Collecte estimée :
 +   <string id="5">de la population est inscrite au registre fiscal
 -   <string id="7">Depuis le début de l'année
-+   <string id="7">Pour l'année en cours
 -   <string id="8">Revenus (taxes)
 -   <string id="9">Revenus (commerce)
 -   <string id="10">Revenus (total)
++   <string id="7">Pour l'année en cours
 +   <string id="8">Taxes collectées
-+   <string id="9">Ventes (commmerce)
++   <string id="9">Ventes (commerce)
 +   <string id="10">Recettes
 -   <string id="12">Salaire
 +   <string id="12">Salaires
@@ -794,10 +786,10 @@
 +   <string id="18">Solde budgétaire
 +   <string id="19">Fonds
 +   <string id="20">Donations
-
-@@ -1604,21 +1604,21 @@
 -   <string id="0">Conseiller
 +   <string id="0">Conseiller en chef
+
+@@ -1612,121 +1612,121 @@
 -   <string id="8">Education
 +   <string id="8">Éducation
 -   <string id="12">Le chômage touche
@@ -820,15 +812,10 @@
 +   <string id="20">Le manque d'emplois freine l'immigration
 +   <string id="21">Le manque de nourriture freine l'immigration
 +   <string id="22">Les taxes élevées freine l'immigration
-
-@@ -1633,7 +1633,7 @@
-
 -   <string id="29">Pas de problème à signaler
 +   <string id="29">Pas de problèmes à signaler
 -   <string id="32">Le crime est devenu endémique
-+   <string id="32">Le criminalité est devenue endémique
-
-@@ -1642,88 +1642,88 @@
++   <string id="32">La criminalité est devenue endémique
 -   <string id="38">Pas de problème à signaler
 +   <string id="38">Pas de problèmes à signaler
 -   <string id="41">Des citoyens manquent d'éducation
@@ -1232,9 +1219,11 @@
 -   <string id="15">Annuler cette opération.
 +   <string id="15">Annuler cette opération
 
-@@ -2631,15 +2631,15 @@
+@@ -2621,7 +2621,7 @@
 -   <string id="34">Faire défiler les zones de troubles de la cité
 +   <string id="34">Faire défiler les zones à problèmes de la cité
+
+@@ -2631,15 +2631,15 @@
 -   <string id="44">Tourner la carte vers la gauche
 -   <string id="45">Tourner la carte dans le sens des aiguilles d'une montre
 +   <string id="44">Rotation de la carte dans le sens anti-horaire
@@ -1251,20 +1240,18 @@
 @@ -2658,7 +2658,7 @@
 -   <string id="71">Consulter le rapport sur les armées
 +   <string id="71">Consulter le rapport sur la légion
--   <string id="81">Consulter le rapport de votre conseiller personnel
-+   <string id="81">Consulter le rapport de votre conseiller en chef
--   <string id="91">Fixer un niveau de revenus (votre peuple comparera cette valeur à celle de Rome)
-+   <string id="91">Fixer le niveau salarial (votre peuple comparera cette valeur à celle de Rome)
--   <string id="130">Cliquez ici pour aller vers cette zone de troubles
-+   <string id="130">Cliquez ici pour aller sur le lieu du problème
 
-@@ -2669,7 +2669,7 @@
+@@ -2668,8 +2668,8 @@
+-   <string id="81">Consulter le rapport de votre conseiller personnel
 -   <string id="82">Retourner à l'écran de jeu
++   <string id="81">Consulter le rapport de votre conseiller en chef
 +   <string id="82">Retourner sur la carte
 
-@@ -2677,25 +2677,25 @@
+@@ -2677,27 +2677,27 @@
 -   <string id="90">Cliquez ici pour fixer le niveau de priorité d'une catégorie de tâches
+-   <string id="91">Fixer un niveau de revenus (votre peuple comparera cette valeur à celle de Rome)
 +   <string id="90">Cliquez ici pour fixer le niveau de priorité de cette catégorie de main-d'œuvre
++   <string id="91">Fixer le niveau salarial (votre peuple comparera cette valeur à celle de Rome)
 -   <string id="93">Cliquez sur un chiffre pour fixer le niveau de priorité. Les priorités des autres tâches seront réajustées en fonction
 +   <string id="93">Cliquez sur un chiffre pour fixer le niveau de priorité. Les priorités des autres tâches seront réajustées en fonction.
 -   <string id="99">Faire don de cette somme à la cité
@@ -1279,7 +1266,7 @@
 @@ -2717,8 +2717,8 @@
 -   <string id="130">Cliquez ici pour aller dans cette zone de troubles
 -   <string id="131">Envoyer un cadeau à l'empereur
-+   <string id="130">Cliquez ici pour aller vers cette zone de troubles
++   <string id="130">Cliquez ici pour aller sur le lieu du problème
 +   <string id="131">Envoyer un cadeau à l'Empereur
 
 @@ -2734,7 +2734,7 @@
@@ -1404,7 +1391,7 @@
 +   <string id="5">Aucune représentation actuellement
 +   <string id="6">Représentation prévue pour
 
-@@ -2843,186 +2843,186 @@
+@@ -2843,509 +2843,509 @@
 -   <string id="1">Rien n'égale l'excitation procurée par une course de chars.
 -   <string id="2">Cet hippodrome ne propose pas de courses, car il ne dispose pas de chars.
 -   <string id="3">Cet hippodrome propose de nombreuses courses passionnantes et attire une foule considérable.
@@ -1613,8 +1600,6 @@
 +   <string id="6">Instructions du grenier
 -   <string id="9">Réexpédition des biens vers un autre lieu de stockage
 +   <string id="9">Vivres transférés ailleurs si possible
-
-@@ -3031,321 +3031,321 @@
 -   <string id="1">Permet de stocker les marchandises importées et exportées. Les entrepôts sont visités par les caravanes de marchands et approvisionnent les docks avoisinants.
 +   <string id="1">Les marchandises produites ou importées sont stockées dans les entrepôts, où les caravanes de marchands commercent et les dockers livrent et récupèrent des biens.
 -   <string id="6">Réexpédition des biens vers un autre lieu de stockage
@@ -1733,7 +1718,7 @@
 +   <string id="1">Les citoyens sans accès à une fontaine tirent l'eau des puits, mais les quartiers qui en dépendent ne sont pas des lieux de vie attrayants.
 +   <string id="2">Ce puits est superflu, car toutes les maisons qu'il dessert tirent leur eau d'une fontaine locale.
 +   <string id="3">Ce puits est actuellement inutile, car aucune maison ne se trouve dans son périmètre d'approvisionnement en eau.
--   <string id="1">Ce temple de marbre augmente l'attrait du quartier et apaise les dieux. En revanche, il n'emploie pas de prêtre et ne procure aux habitations aucun accès à un dieu en particulier.
+-   <string id="1">Ce temple de marbre augmente l'attrait du quartier et apaise les dieux. En revanche, il n'emploie pas de prêtre et ne procure pas aux habitations un accès à un dieu en particulier.
 +   <string id="1">Ce temple de marbre augmente l'attrait des résidences proches et contente tous les dieux. En revanche, il n'emploie pas de prêtres et ne procure aux citoyens aucun accès à un dieu en particulier.
 -   <string id="1">Les préfets n'ont pas réussi à atteindre ce lieu à temps pour pouvoir sauver le bâtiment. Lorsque le feu s'éteindra, il ne restera que des gravats.
 +   <string id="1">Les préfets n'ont pas réussi à atteindre ce lieu à temps pour sauver le bâtiment. Lorsque le feu s'éteindra de lui-même, il ne restera que des décombres.
@@ -2454,7 +2439,7 @@
 +   <string id="11">En sous-effectif, nous formons de nouveaux soldats à un rythme très lent, mais avons les stocks d'armes requis pour tous types de troupes.
 +   <string id="12">Avec une équipe si réduite, nous formons de nouveaux soldats à une lenteur extrême, bien que nous ayons les stocks d'armes requis pour tous types de troupes.
 
-@@ -4206,86 +4206,86 @@
+@@ -4208,131 +4208,131 @@
 -   <string id="9">&quot;Les Lions.&quot;
 -   <string id="10">Cette légion ne comporte actuellement aucun soldat et n'existe que par son nom. Entraînez de nouvelles troupes pour qu'elle retrouve sa gloire passée.
 -   <string id="11">Cette légion ne comporte actuellement aucun soldat et n'existe que par son nom. Sans caserne opérationnelle, elle ne pourra pas recevoir de nouveaux éléments.
@@ -2545,9 +2530,6 @@
 +   <string id="2">Demander des vivres
 -   <string id="0">Cliquez sur la ville de votre choix
 +   <string id="0">Cliquez sur la cité de votre choix
-
-@@ -4297,86 +4297,86 @@
-
 -   <string id="4">Seconde mission
 +   <string id="4">Deuxième mission
 -   <string id="7">350 av. J.-C. - Troisième mission
@@ -2568,9 +2550,6 @@
 +   <string id="28">50 ap. J.-C. - Mission X
 -   <string id="31">100 ap. J.-C. - Dernière mission
 +   <string id="31">100 ap. J.-C. - Mission finale
-
-
-@@ -4321,18 +4321,18 @@
 -   <string id="0">L'emplacement idéal pour une grande cité sur la côte Nord de l'Afrique. Honorez les dieux et comblez vos citoyens.
 -   <string id="1">Cela fait des années que la cavalerie numide tourmente les environs de Thamugadi. Elle mettra sans doute vos défenses à l'épreuve.
 +   <string id="0">L'emplacement idéal pour une grande cité sur la côte nord de l'Afrique. Honorez les dieux et comblez vos citoyens.
