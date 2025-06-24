@@ -1,7 +1,7 @@
 --- Traduction vanilla de Caesar III
 +++ Traduction FrDeluxe de Caesar III
 
-1199 modifications.
+1200 modifications.
 
 @@ -6,7 +6,7 @@
 -   <string id="5">Quitter
@@ -708,7 +708,7 @@
 -   <string id="13">Vos colisées ont besoin de spectacles plus variés ! Leur fournir des gladiateurs ou des lions pourrait améliorer la qualité des divertissements de certains secteurs de la cité.
 -   <string id="14">Votre hippodrome est bien joli, mais il ne dispose d'aucun char ! Faites-en fabriquer pour augmenter le niveau de loisirs et attirer plus d'habitants dans votre cité.
 +   <string id="6">N/A
-+   <string id="7">Pour l'instant, vos citoyens ont à l'esprit d'autres besoins plus élémentaires que les divertissements. Mais avec le développement de votre cité, ils réclameront des structures leur faisant oublier la monotonie du train-train quotidien.
++   <string id="7">Pour l'instant, vos citoyens ont à l'esprit d'autres besoins plus élémentaires que les divertissements. Mais avec le développement de votre cité, ils réclameront des structures leur faisant oublier la monotonie du quotidien.
 +   <string id="8">Actuellement, les citoyens ayant besoin de se changer les idées sont comblés. Mais avec le développement de la cité, il vous faudra rapidement fournir des formes de divertissement plus variées et plus nombreuses !
 +   <string id="9">Des citoyens se plaignent d'un accès insuffisant aux lieux de loisirs. Certains secteurs de la cité ont besoin de structures de divertissement plus variées afin de pouvoir se développer.
 +   <string id="10">Des secteurs de la cité se plaignent de ne pas avoir accès aux lieux de loisirs. La construction de nouvelles structures de divertissement pourrait aider au développement de ces quartiers.
@@ -774,7 +774,9 @@
 +   <string id="43">Vous avez désactivé l'influence des dieux. Qu'ils soient heureux ou furieux, ils ne se manifesteront pas.
 
 @@ -1585,22 +1585,22 @@
+-   <string id="4">Somme due (environ) :
 -   <string id="5">de la population est redevable de taxes
++   <string id="4">Collecte estimée :
 +   <string id="5">de la population est inscrite au registre fiscal
 -   <string id="7">Depuis le début de l'année
 +   <string id="7">Pour l'année en cours
@@ -1425,7 +1427,7 @@
 -   <string id="8">Combats d'animaux prévus pendant
 -   <string id="9">Pas de combat actuellement
 -   <string id="10">Duels de gladiateurs prévus pendant
-+   <string id="1">La violence des combats pimente agréablement le train-train quotidien.
++   <string id="1">La violence des combats pimente agréablement la monotonie du quotidien.
 +   <string id="2">Le colisée ne propose aucun spectacle. Il a besoin de gladiateurs ou de lions pour attirer les foules.
 +   <string id="3">Ce colisée propose à la fois des combats de gladiateurs et de lions, ce qui ravit au plus haut point les habitants.
 +   <string id="4">Ce colisée propose des combats de gladiateurs. La présence de lions pourrait toutefois pimenter de fort belle manière les combats à mort.
@@ -1442,7 +1444,7 @@
 -   <string id="5">Nous manquons sérieusement d'effectifs, alors estimez-vous heureux si nous arrivons à former un gladiateur dans les deux mois à venir.
 -   <string id="6">Je n'ai aucun employé ! Dans ces conditions, je pourrai peut-être former un gladiateur d'ici trois mois, et encore...
 -   <string id="7">Sans instructeur disponible, aucun gladiateur ne peut être formé ici.
-+   <string id="1">L'amphithéâtre et le colisée ont toujours besoin de nouvelles recrues pour remplacer les combattants vaincus.
++   <string id="1">L'amphithéâtre et le colisée ont toujours besoin de nouveaux gladiateurs pour remplacer les combattants de pacotille.
 +   <string id="2">Nous sommes heureux de vous annoncer que nos effectifs étant au complet, nous formons jusqu'à quatre nouveaux gladiateurs chaque mois.
 +   <string id="3">Nous sommes légèrement en sous-effectif, et ne pouvons former pas plus de deux gladiateurs chaque mois.
 +   <string id="4">Nous sommes sérieusement en sous-effectif, et ne pouvons former qu'un seul gladiateur pour le mois à venir.
@@ -1458,7 +1460,7 @@
 -   <string id="6">Je n'ai aucun employé ! Dans ces conditions, je pourrai peut-être dompter un lion d'ici trois mois, et encore...
 -   <string id="7">Sans dompteur disponible, aucun lion ne peut être dressé ici.
 +   <string id="0">Fosse aux lions
-+   <string id="1">Pour divertir les foules, un colisée se doit de proposer des combats contre ces bêtes féroces.
++   <string id="1">Les foules se délectent des combats dans l'arène contre ces bêtes féroces.
 +   <string id="2">Nous sommes heureux de vous annoncer que nos effectifs étant au complet, nous pouvons fournir jusqu'à quatre nouveaux lions chaque mois.
 +   <string id="3">Nous sommes légèrement en sous-effectif, et ne pouvons fournir pas plus de deux lions chaque mois.
 +   <string id="4">Nous sommes sérieusement en sous-effectif, et ne pouvons fournir qu'un lion pour le mois à venir.
@@ -1472,13 +1474,13 @@
 -   <string id="5">Même avec la meilleure volonté du monde, il nous faudra bien deux mois pour former un acteur avec le peu de professeurs qui travaillent ici.
 -   <string id="6">Je n'ai personne pour m'aider ! Il me faudra bien trois mois pour former un acteur, et encore, s'il a du talent !
 -   <string id="7">Voilà une école bien déserte. Dans ces conditions, n'espérez pas susciter des vocations dans votre cité.
-+   <string id="1">Les théâtres et amphithéatres sont toujours à la recherche de nouveaux talents.
++   <string id="1">Les théâtres et amphithéâtres sont toujours à la recherche de nouveaux talents.
 +   <string id="2">Nous sommes heureux de vous annoncer que nos effectifs étant au complet, jusqu'à quatre nouveaux acteurs pétris de talent éclosent chaque mois.
 +   <string id="3">Nous sommes légèrement en sous-effectif, et ne pouvons former pas plus de deux acteurs chaque mois.
 +   <string id="4">Nous sommes sérieusement en sous-effectif, en ne pouvons former qu'un seul acteur pour le mois à venir.
 +   <string id="5">Nous avons désespérément besoin d'employés. Nous craignons de ne pouvoir former qu'un seul acteur pour les deux mois à venir.
 +   <string id="6">Je suis le seul employé ici ! Impossible de travailler décemment dans ces conditions ! Au mieux, je pourrai former un acteur en trois mois.
-+   <string id="7">Ô désespoir, cette école est bien déserte. Sans mentors pour insuffler la flamme du théâtre, les nouveaux acteurs ne risquent pas de brûler les planches de sitôt.
++   <string id="7">Cette école est déserte. Sans mentors pour insuffler la flamme du théâtre, les nouveaux acteurs ne risquent pas de brûler les planches de sitôt.
 -   <string id="0">Fabrique de chars
 -   <string id="1">C'est ici que sont fabriqués les chars qui serviront pendant les courses à l'hippodrome.
 -   <string id="2">Nous sommes heureux de vous annoncer que, nos effectifs étant au complet, nous fabriquons jusqu'à quatre chars chaque mois.
@@ -1488,13 +1490,13 @@
 -   <string id="6">Je n'ai aucun employé ! Dans ces conditions, je pourrai peut-être fabriquer un char d'ici trois mois, et encore...
 -   <string id="7">Aucun artisan ne travaille actuellement, il n'y a donc pas de production. L'hippodrome, s'il est opérationnel, pourrait en souffrir.
 +   <string id="0">Manufacture de chars
-+   <string id="1">Les artisans œuvrant ici conçoivent des chars rapides et robustes, tout en conseillant leurs conducteurs. Les courses de l'hippodrome sont fameuses à travers tout l'Empire.
++   <string id="1">Les artisans conçoivent ici des chars rapides et robustes, et forment les auriges. Les courses de l'hippodrome sont fameuses à travers tout l'Empire.
 +   <string id="2">Nous sommes heureux de vous annoncer que nos effectifs étant au complet, nous produisons jusqu'à quatre chars chaque mois.
 +   <string id="3">Nous sommes légèrement en sous-effectif, et ne pouvons produire pas plus de deux chars chaque mois.
 +   <string id="4">Nous sommes sérieusement en sous-effectif, et ne pouvons produire qu'un seul char pour le mois à venir.
 +   <string id="5">Nous avons désespérément besoin d'employés. Nous craignons de ne pouvoir produire qu'un seul char pour les deux mois à venir.
 +   <string id="6">Je suis le seul employé ici ! Impossible de travailler décemment dans ces conditions ! Au mieux, je pourrai produire un char en trois mois.
-+   <string id="7">Sans ouvriers, aucun char n'est produit pour l'hippodrome, si ce dernier est opérationnel. Les auriges vont bientôt devoir courir à pied si cela continue.
++   <string id="7">Sans employés, aucun char n'est produit pour l'hippodrome, s'il est opérationnel. Les auriges vont bientôt devoir courir à pied si cela continue.
 -   <string id="1">Un petit coin de calme et de verdure pour qui veut s'isoler du vacarme de la cité. Tout le monde apprécie la présence d'un jardin dans son voisinage.
 +   <string id="1">Ce charmant aménagement de verdure procure aux citoyens un oasis de sérénité, à l'écart du bruit, de la chaleur, et de la poussière de la cité. Tout le monde apprécie la présence d'un jardin au pas de sa porte.
 -   <string id="1">Les monuments dédiés aux personnes célèbres ou aux évènements historiques augmentent le prestige des quartiers où ils sont édifiés. Les gens sont fiers de vivre à côté de statues... surtout si elles sont imposantes.
@@ -1546,7 +1548,7 @@
 +   <string id="2">Les étagères de cette bibliothèque sont vides. Elle n'est donc d'aucune utilité pour les citoyens.
 +   <string id="3">Cette bibliothèque est opérationnelle. Ses étagères sont remplies de manuscrits et de parchemins, vecteurs du savoir et de la connaissance.
 -   <string id="1">Les préfets sillonnent les rues de la cité pour combattre le crime et les incendies. Leur présence dans les rues vous garantit la paix civile.
-+   <string id="1">Les préfets sillonnent les rues de la cité pour prévenir le crime et les incendies. L'ordre civil est possible seulement si les préfets quadrillent efficacement la cité.
++   <string id="1">Les préfets sillonnent les rues de la cité pour prévenir le crime et les incendies. L'ordre civil prévaudra si les préfets quadrillent efficacement la cité.
 -   <string id="3">Le préfet est dans son bureau.
 -   <string id="4">Nos effectifs sont au complet, et il y a toujours du monde en patrouille dans les rues de la cité.
 -   <string id="5">Nous manquons un peu d'employés, et certains jours, il n'est pas possible d'aller patrouiller la cité.
@@ -1578,11 +1580,11 @@
 -   <string id="0">Temple à Neptune (la mer)
 -   <string id="1">Même quand il est satisfait, Neptune est un dieu capricieux. N'attirez pas sa colère si vous tenez à votre flotte.
 +   <string id="0">Temple de Neptune (Mer)
-+   <string id="1">Même lorsqu'il est satisfait, les marins considèrent que Neptune est un dieu capricieux. Ne provoquez pas sa colère, si vous prévoyez de pêcher ou de commercer par voie maritime.
++   <string id="1">Les marins considèrent Neptune comme un dieu capricieux, même s'il est satisfait. Ne provoquez pas sa colère, si vous prévoyez de pêcher ou de commercer par voie maritime.
 -   <string id="0">Temple à Mercure (le commerce)
 -   <string id="1">Les marchands célèbrent Mercure pour qu'il protège leurs boutiques et leurs biens. Mais quand il est en colère, c'est toute l'économie qui est en danger.
 +   <string id="0">Temple de Mercure (Commerce)
-+   <string id="1">Les marchands vénèrent Mercure pour que leurs affaires soient bénies. Mais quand Mercure se fâche, c'est toute l'économie qui se trouve en péril.
++   <string id="1">Les marchands vénèrent Mercure afin que leurs affaires soient bénies. Mais si Mercure se fâche, c'est toute l'économie qui se trouve en péril.
 -   <string id="0">Temple à Mars (la guerre)
 -   <string id="1">Mars guide les soldats et leur insuffle vaillance et force. Seuls les inconscients partent au combat sans sa bénédiction.
 +   <string id="0">Temple de Mars (Guerre)
@@ -1590,12 +1592,12 @@
 -   <string id="0">Temple à Vénus (l'amour)
 -   <string id="1">Lorsque Vénus est irritée, la morosité s'abat sur la ville. Certains murmurent même qu'elle répand la maladie.
 +   <string id="0">Temple de Vénus (Amour)
-+   <string id="1">Lorsque Vénus est irritée, la morosité s'abat sur la cité et ses citoyens. Certains murmurent qu'elle répandrait même la maladie.
++   <string id="1">Quand Vénus est mécontente, la morosité s'abat sur la cité et ses citoyens. Certains murmurent même qu'elle répandrait la maladie.
 -   <string id="0">Marchés
 -   <string id="1">Bien que tout le monde souhaite y avoir accès, personne n'aime vivre à côté d'un marché à cause du bruit et de l'agitation qu'il génère.
 -   <string id="2">Ce marché n'est pas opérationnel. Il n'est donc d'aucune utilité pour vos citoyens.
 +   <string id="0">Marché
-+   <string id="1">Nos marchés apportent à tout citoyen les bienfaits de l'Empire, contre espèces sonnantes et trébuchantes. Chaque maison exige son accès au marché, bien que personne ne veuille vivre à proximité.
++   <string id="1">Nos marchés apportent les bienfaits de l'Empire à tout citoyen ayant quelques sous. Chaque logement exige un accès au marché, mais nul ne le tolère au pas de sa porte.
 +   <string id="2">Ce marché n'est pas opérationnel, et n'est donc d'aucune utilité pour les citoyens.
 -   <string id="4">Il y a bien des marchands, mais ils manquent de nourriture pour remplir leurs étalages.
 +   <string id="4">Ce marché emploie des vendeuses, mais elles recherchent de la nourriture pour l'achalander.
@@ -1603,7 +1605,7 @@
 -   <string id="2">Stockage
 -   <string id="3">Espace pour
 -   <string id="4">Ce grenier est superflu. Rome fournit tout le blé nécessaire à votre cité. Toute notre récolte ira directement dans nos entrepôts pour être exportée.
-+   <string id="1">Des greniers bien remplis pour nourrir les citoyens et en attirer de nouveaux. Vous pouvez y stocker blé, viande, poisson, légumes et fruits.
++   <string id="1">Les greniers doivent être bien remplis pour nourrir les citoyens et en attirer de nouveaux. Vous pouvez y stocker blé, viande, poisson, légumes et fruits.
 +   <string id="2">Réserve
 +   <string id="3">Place pour
 +   <string id="4">Ce grenier n'est pas nécessaire. Rome fournit à votre cité tout le blé nécessaire. Toute nourriture produite ira directement dans un entrepôt ayant de la place.
@@ -1614,7 +1616,7 @@
 
 @@ -3031,321 +3031,321 @@
 -   <string id="1">Permet de stocker les marchandises importées et exportées. Les entrepôts sont visités par les caravanes de marchands et approvisionnent les docks avoisinants.
-+   <string id="1">Permet de stocker les marchandises importées et exportées. Les entrepôts sont visités par les caravanes de marchands et les docks y livrent ou y récupèrent des biens.
++   <string id="1">Les marchandises produites ou importées sont stockées dans les entrepôts, où les caravanes de marchands commercent et les dockers livrent et récupèrent des biens.
 -   <string id="6">Réexpédition des biens vers un autre lieu de stockage
 +   <string id="6">Biens transférés ailleurs si possible
 -   <string id="9">Va chercher les biens
@@ -1632,7 +1634,7 @@
 +   <string id="16">Notre charrette livre des biens ailleurs actuellement.
 +   <string id="17">Notre charrette revient d'une livraison.
 -   <string id="1">Alimenté en bois et en main d'œuvre, le chantier naval construit des bateaux de pêche pour les quais de la cité.
-+   <string id="1">Avec quelques charrettes de bois et assez d'ouvriers, le chantier naval construit des bateaux de pêche pour les quais de la cité.
++   <string id="1">Avec assez de bois et d'employés, le chantier naval construit des bateaux de pêche pour les quais de la cité.
 -   <string id="4">Il n'y a actuellement pas de quais pour accueillir nos bateaux de pêche.
 -   <string id="5">Nous construisons un bateau pour un des quais de la cité.
 +   <string id="4">Il n'y a actuellement aucun quai de pêche demandant un de nos bateaux.
@@ -1646,7 +1648,7 @@
 -   <string id="7">Très peu de dockers travaillent ici, il nous faudra beaucoup de temps pour nous occuper des navires qui accosteront.
 -   <string id="8">Nous manquons de main-d'œuvre, et il nous faudra du temps pour nous occuper des navires qui accosteront au port.
 -   <string id="9">Nos hommes sont près à s'occuper efficacement des navires qui accosteront ici.
-+   <string id="1">Des navires marchands de tout l'Empire accostent ici pour livrer des biens d'importation, et récupérer nos biens d'exportation. Le commerce maritime est impossible sans un dock.
++   <string id="1">Des navires marchands de tout l'Empire accostent ici pour livrer des biens d'importation, et récupérer nos biens d'exportation. Le commerce maritime est impossible sans docks.
 +   <string id="2">Sans aucun docker, nous ne pouvons pas nous occuper du navire amarré.
 +   <string id="3">Nous nous occupons du navire amarré. Mais avec si peu de dockers, cela risque d'être long.
 +   <string id="4">Nous nous occupons du navire amarré, bien que cela prenne un petit plus de temps que si nous avions un effectif au complet.
@@ -1682,7 +1684,7 @@
 -   <string id="7">Nous manquons cruellement de personnel, et il faut parfois deux semaines à un ingénieur pour faire sa ronde.
 -   <string id="8">Nous sommes vraiment trop peu nombreux. Il faut presque un mois à un ingénieur pour faire sa ronde.
 -   <string id="9">Aucun ingénieur ne travaillant ici, ce bâtiment aussi risque de s'effondrer.
-+   <string id="1">Les ingénieurs sont des professionnels très respectés et dont les services sont très demandés. Une maintenance régulière prévient l'effondrement des bâtiments.
++   <string id="1">Les ingénieurs sont des professionnels de haute estime et dont les services sont très demandés. Une maintenance régulière prévient l'effondrement des bâtiments.
 +   <string id="2">Notre ingénieur effectue son inspection.
 +   <string id="3">Notre ingénieur prépare son inspection.
 +   <string id="4">Nous travaillons actuellement sans répit. Nos ingénieurs sont toujours à l'extérieur, inspectant et réparant tout bâtiment endommagé de la cité.
@@ -1732,7 +1734,7 @@
 +   <string id="2">Ce puits est superflu, car toutes les maisons qu'il dessert tirent leur eau d'une fontaine locale.
 +   <string id="3">Ce puits est actuellement inutile, car aucune maison ne se trouve dans son périmètre d'approvisionnement en eau.
 -   <string id="1">Ce temple de marbre augmente l'attrait du quartier et apaise les dieux. En revanche, il n'emploie pas de prêtre et ne procure aux habitations aucun accès à un dieu en particulier.
-+   <string id="1">Ce temple de marbre augmente l'attrait des résidences proches et contente tous les dieux. En revanche, il n'emploie pas de prêtres et ne procure pas aux habitations un accès à un dieu en particulier.
++   <string id="1">Ce temple de marbre augmente l'attrait des résidences proches et contente tous les dieux. En revanche, il n'emploie pas de prêtres et ne procure aux citoyens aucun accès à un dieu en particulier.
 -   <string id="1">Les préfets n'ont pas réussi à atteindre ce lieu à temps pour pouvoir sauver le bâtiment. Lorsque le feu s'éteindra, il ne restera que des gravats.
 +   <string id="1">Les préfets n'ont pas réussi à atteindre ce lieu à temps pour sauver le bâtiment. Lorsque le feu s'éteindra de lui-même, il ne restera que des décombres.
 -   <string id="0">Plantation céréalière
@@ -2428,9 +2430,9 @@
 -   <string id="3">Nous perfectionnons les techniques de guerre de vos nouvelles troupes afin qu'elles deviennent le fleuron des forces de l'Empire.
 +   <string id="1">Lorsque les nouvelles recrues achèvent leur entraînement de base à la caserne, elles viennent améliorer leurs qualités et capacités dans cette académie, si cette dernière dispose d'une équipe complète d'instructeurs.
 +   <string id="2">Sans aucune équipe d'instructeurs, nous ne pouvons parfaire l'entraînement des nouveaux soldats de la cité. Ils devront se rendre directement aux forts et espérer que tout ira bien.
-+   <string id="3">Nous enseignons aux nouvelles recrues de la caserne de la cité des techniques de guerre avancées, afin qu'elles excellent au sein d'une armée romaine ultramoderne.
++   <string id="3">Nous enseignons aux nouvelles recrues de la caserne de la cité des techniques de guerre avancées, afin qu'elles excellent au sein de l'armée romaine.
 -   <string id="1">Nul ne peut intégrer l'armée romaine sans avoir été formé ici, car c'est par l'entraînement qu'on atteint l'excellence.
-+   <string id="1">Nul ne peut rejoindre les légions romaines sans avoir été formé ici. Il s'agit de l'école d'entraînement militaire pour les nouvelles recrues de la cité.
++   <string id="1">Nul ne peut rejoindre les légions romaines sans avoir fait ses classes à l'école d'entraînement pour nouvelles recrues de la cité.
 -   <string id="3">Sans employés, comment voulez-vous que nous formions vos recrues ? Que Mars nous protège si l'ennemi attaque.
 -   <string id="4">Nous ne formons actuellement aucune recrue, car ni les forts, ni les tours n'ont réclamé de nouvelles troupes.
 -   <string id="5">Comme il n'y a pas de stocks d'armes dans la cité pour équiper de nouvelles légions, nous ne pouvons former que des auxiliaires.
