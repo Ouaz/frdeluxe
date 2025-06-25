@@ -1,7 +1,7 @@
 --- Traduction vanilla de Caesar III
 +++ Traduction FrDeluxe de Caesar III
 
-1199 modifications.
+1198 modifications.
 
 @@ -6,7 +6,7 @@
 -   <string id="5">Quitter
@@ -1182,8 +1182,6 @@
 +   <string id="102">Cette maison a accès à une école et à une bibliothèque
 +   <string id="103">Cette maison a accès à une école et à une bibliothèque. Les jeunes citoyens ont également une université à proximité.
 +   <string id="104">Les habitants de ces tentes se procurent eux-mêmes leur nourriture...
--   <string id="3">Ateliers
-+   <string id="3">Artisanat
 
 @@ -2549,16 +2549,16 @@
 -   <string id="13">Parc à lions
@@ -1431,7 +1429,7 @@
 -   <string id="5">Nous manquons sérieusement d'effectifs, alors estimez-vous heureux si nous arrivons à former un gladiateur dans les deux mois à venir.
 -   <string id="6">Je n'ai aucun employé ! Dans ces conditions, je pourrai peut-être former un gladiateur d'ici trois mois, et encore...
 -   <string id="7">Sans instructeur disponible, aucun gladiateur ne peut être formé ici.
-+   <string id="1">L'amphithéâtre et le colisée ont toujours besoin de nouveaux gladiateurs pour remplacer les combattants de pacotille.
++   <string id="1">L'amphithéâtre et le colisée ont toujours besoin de nouveaux gladiateurs pour remplacer les combattants de piètre qualité.
 +   <string id="2">Nous sommes heureux de vous annoncer que nos effectifs étant au complet, nous formons jusqu'à quatre nouveaux gladiateurs chaque mois.
 +   <string id="3">Nous sommes légèrement en sous-effectif, et ne pouvons former pas plus de deux gladiateurs chaque mois.
 +   <string id="4">Nous sommes sérieusement en sous-effectif, et ne pouvons former qu'un seul gladiateur pour le mois à venir.
@@ -1447,7 +1445,7 @@
 -   <string id="6">Je n'ai aucun employé ! Dans ces conditions, je pourrai peut-être dompter un lion d'ici trois mois, et encore...
 -   <string id="7">Sans dompteur disponible, aucun lion ne peut être dressé ici.
 +   <string id="0">Fosse aux lions
-+   <string id="1">Les foules se délectent des combats dans l'arène contre ces bêtes féroces.
++   <string id="1">Les foules se délectent des combats contre ces bêtes féroces dans l'arène.
 +   <string id="2">Nous sommes heureux de vous annoncer que nos effectifs étant au complet, nous pouvons fournir jusqu'à quatre nouveaux lions chaque mois.
 +   <string id="3">Nous sommes légèrement en sous-effectif, et ne pouvons fournir pas plus de deux lions chaque mois.
 +   <string id="4">Nous sommes sérieusement en sous-effectif, et ne pouvons fournir qu'un lion pour le mois à venir.
@@ -1567,7 +1565,7 @@
 -   <string id="0">Temple à Neptune (la mer)
 -   <string id="1">Même quand il est satisfait, Neptune est un dieu capricieux. N'attirez pas sa colère si vous tenez à votre flotte.
 +   <string id="0">Temple de Neptune (Mer)
-+   <string id="1">Les marins considèrent Neptune comme un dieu capricieux, même s'il est satisfait. Ne provoquez pas sa colère, si vous prévoyez de pêcher ou de commercer par voie maritime.
++   <string id="1">Les marins considèrent Neptune comme un dieu capricieux, même quand il est satisfait. Ne provoquez pas sa colère, si vous prévoyez de pêcher ou de commercer par voie maritime.
 -   <string id="0">Temple à Mercure (le commerce)
 -   <string id="1">Les marchands célèbrent Mercure pour qu'il protège leurs boutiques et leurs biens. Mais quand il est en colère, c'est toute l'économie qui est en danger.
 +   <string id="0">Temple de Mercure (Commerce)
@@ -1579,12 +1577,12 @@
 -   <string id="0">Temple à Vénus (l'amour)
 -   <string id="1">Lorsque Vénus est irritée, la morosité s'abat sur la ville. Certains murmurent même qu'elle répand la maladie.
 +   <string id="0">Temple de Vénus (Amour)
-+   <string id="1">Quand Vénus est mécontente, la morosité s'abat sur la cité et ses citoyens. Certains murmurent même qu'elle répandrait la maladie.
++   <string id="1">Lorsque Vénus est mécontente, la morosité s'abat sur la cité et ses citoyens. Certains murmurent même qu'elle répandrait la maladie.
 -   <string id="0">Marchés
 -   <string id="1">Bien que tout le monde souhaite y avoir accès, personne n'aime vivre à côté d'un marché à cause du bruit et de l'agitation qu'il génère.
 -   <string id="2">Ce marché n'est pas opérationnel. Il n'est donc d'aucune utilité pour vos citoyens.
 +   <string id="0">Marché
-+   <string id="1">Nos marchés apportent les bienfaits de l'Empire à tout citoyen ayant quelques sous. Chaque logement exige un accès au marché, mais nul ne le tolère au pas de sa porte.
++   <string id="1">Nos marchés apportent les bienfaits de l'Empire à tout citoyen de la cité. Chaque logement exige un accès au marché, mais nul ne le tolère au pas de sa porte.
 +   <string id="2">Ce marché n'est pas opérationnel, et n'est donc d'aucune utilité pour les citoyens.
 -   <string id="4">Il y a bien des marchands, mais ils manquent de nourriture pour remplir leurs étalages.
 +   <string id="4">Ce marché emploie des vendeuses, mais elles recherchent de la nourriture pour l'achalander.
@@ -1601,7 +1599,7 @@
 -   <string id="9">Réexpédition des biens vers un autre lieu de stockage
 +   <string id="9">Vivres transférés ailleurs si possible
 -   <string id="1">Permet de stocker les marchandises importées et exportées. Les entrepôts sont visités par les caravanes de marchands et approvisionnent les docks avoisinants.
-+   <string id="1">Les marchandises produites ou importées sont stockées dans les entrepôts, où les caravanes de marchands commercent et les dockers livrent et récupèrent des biens.
++   <string id="1">Les marchandises produites ou importées sont stockées dans un entrepôt. Ici, les caravanes de marchands peuvent commercer et les docks livrer et récupérer des biens.
 -   <string id="6">Réexpédition des biens vers un autre lieu de stockage
 +   <string id="6">Biens transférés ailleurs si possible
 -   <string id="9">Va chercher les biens
@@ -1669,7 +1667,7 @@
 -   <string id="7">Nous manquons cruellement de personnel, et il faut parfois deux semaines à un ingénieur pour faire sa ronde.
 -   <string id="8">Nous sommes vraiment trop peu nombreux. Il faut presque un mois à un ingénieur pour faire sa ronde.
 -   <string id="9">Aucun ingénieur ne travaillant ici, ce bâtiment aussi risque de s'effondrer.
-+   <string id="1">Les ingénieurs sont des professionnels de haute estime et dont les services sont très demandés. Une maintenance régulière prévient l'effondrement des bâtiments.
++   <string id="1">Les ingénieurs sont des professionnels fort appréciés, dont les services sont très demandés. Une maintenance régulière prévient l'effondrement des bâtiments.
 +   <string id="2">Notre ingénieur effectue son inspection.
 +   <string id="3">Notre ingénieur prépare son inspection.
 +   <string id="4">Nous travaillons actuellement sans répit. Nos ingénieurs sont toujours à l'extérieur, inspectant et réparant tout bâtiment endommagé de la cité.
