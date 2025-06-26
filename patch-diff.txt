@@ -315,7 +315,7 @@
 -   <string id="10">Vendu
 +   <string id="4">Achète
 +   <string id="5">Vend
-+   <string id="6">pour ouvrir une route de commerce
++   <string id="6">pour ouvrir route de commerce
 +   <string id="7">Vers le rapport de commerce
 +   <string id="8">Cliquez sur une cité pour obtenir des informations à son sujet
 +   <string id="9">A acheté
@@ -1565,7 +1565,7 @@
 -   <string id="0">Temple à Neptune (la mer)
 -   <string id="1">Même quand il est satisfait, Neptune est un dieu capricieux. N'attirez pas sa colère si vous tenez à votre flotte.
 +   <string id="0">Temple de Neptune (Mer)
-+   <string id="1">Les marins considèrent Neptune comme un dieu capricieux, même quand il est satisfait. Ne provoquez pas sa colère, si vous prévoyez de pêcher ou de commercer par voie maritime.
++   <string id="1">Les marins considèrent Neptune comme un dieu capricieux, même lorsqu'il est satisfait. Ne provoquez pas sa colère, si vous prévoyez de pêcher ou de commercer par voie maritime.
 -   <string id="0">Temple à Mercure (le commerce)
 -   <string id="1">Les marchands célèbrent Mercure pour qu'il protège leurs boutiques et leurs biens. Mais quand il est en colère, c'est toute l'économie qui est en danger.
 +   <string id="0">Temple de Mercure (Commerce)
