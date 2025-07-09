@@ -162,8 +162,8 @@
 -   <string id="53">Impossible de détruire un pont tant qu'il y a des gens dessus
 -   <string id="54">Ce lac n'a pas d'accès vers la mer
 +   <string id="50">Votre légion dispose d'un ensemble complet de forts
-+   <string id="51">Sauvegarde auto /mois ON
-+   <string id="52">Sauvegarde auto /mois OFF
++   <string id="51">Sauvegarde auto. /mois ON
++   <string id="52">Sauvegarde auto. /mois OFF
 +   <string id="53">Impossible de détruire un pont si des gens s'y trouvent
 +   <string id="54">Ce lac n'a pas d'accès à la mer
 -   <string id="57">Doit être placé sur une rivière
