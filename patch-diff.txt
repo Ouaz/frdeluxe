@@ -1,7 +1,7 @@
 --- Traduction vanilla de Caesar III
 +++ Traduction FrDeluxe de Caesar III
 
-1198 modifications.
+1200 modifications.
 
 @@ -6,7 +6,7 @@
 -   <string id="5">Quitter
@@ -198,7 +198,9 @@
 +   <string id="7">Grande casa
 -   <string id="11">Insula imposante
 +   <string id="11">Insula somptueuse
+-   <string id="14">Grande Villa</string>
 -   <string id="15">Villa imposante
++   <string id="14">Grande villa</string>
 +   <string id="15">Villa somptueuse
 
 @@ -641,8 +641,8 @@
@@ -228,7 +230,9 @@
 +   <string id="17">Grande casa
 -   <string id="21">Insula imposante
 +   <string id="21">Insula somptueuse
+-   <string id="24">Grande Villa</string>
 -   <string id="25">Villa imposante
++   <string id="24">Grande villa</string>
 +   <string id="25">Villa somptueuse
 
 @@ -798,24 +798,24 @@
